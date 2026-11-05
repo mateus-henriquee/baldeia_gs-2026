@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "ms-python.python",
+    "bierner.markdown-mermaid",
+    "vitest.explorer",
+    "ms-ossdata.vscode-pgsql"
+  ]
+}

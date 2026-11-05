@@ -1,0 +1,23 @@
+{
+  "job_id": "job_20261105T035426Z_b944d537",
+  "source_id": "sptrans_gtfs_amostra",
+  "source_uri": "/home/claude/baldeia/data/sources/sptrans-gtfs-amostra/spo_gtfs.zip",
+  "started_at": "2026-11-05T03:54:26+00:00",
+  "finished_at": "2026-11-05T03:54:26+00:00",
+  "status": "success",
+  "sha256": "b944d5374b207e3f07613123b05366e4d16e3133e4d08ccd6aa089d09489e2c7",
+  "bytes": 192229,
+  "files": {
+    "agency.txt": 1,
+    "calendar.txt": 6,
+    "frequencies.txt": 704,
+    "routes.txt": 19,
+    "shapes.txt": 12295,
+    "stop_times.txt": 860,
+    "stops.txt": 654,
+    "trips.txt": 36
+  },
+  "duplicate_of": "job_20261105T032305Z_b944d537",
+  "bronze_path": "data/bronze/sptrans_gtfs_amostra/job_20261105T035426Z_b944d537",
+  "errors": []
+}

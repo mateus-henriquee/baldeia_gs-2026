@@ -1,0 +1,10 @@
+%% Governança transversal (fonte editável).
+flowchart LR
+  C[Coleta] --> B[Bronze] --> S[Silver] --> G[Gold] --> A[API e banco] --> I[Interface] --> X[Descarte]
+  Q{{Qualidade}} -.-> C & B & S & G & A & I
+  SEG{{Segurança}} -.-> A & I & X
+  P{{Privacidade}} -.-> C & A & I & X
+  M{{Metadados e linhagem}} -.-> C & B & S & G & A & I
+  AU{{Auditoria}} -.-> C & S & G & A & X
+  R{{Retenção}} -.-> B & S & A & I & X
+  AC{{Controle de acesso}} -.-> B & S & G & A & I

@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "API (tsx)", "type": "node", "request": "launch", "runtimeExecutable": "npx", "runtimeArgs": ["tsx", "src/server.ts"], "cwd": "${workspaceFolder}/apps/api", "console": "integratedTerminal" },
+    { "name": "Pipeline (Python)", "type": "debugpy", "request": "launch", "module": "baldeia_pipeline.run", "cwd": "${workspaceFolder}/pipeline" }
+  ]
+}

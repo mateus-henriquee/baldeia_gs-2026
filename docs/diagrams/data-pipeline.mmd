@@ -1,0 +1,28 @@
+%% Fonte editável (Mermaid) do pipeline. A imagem oficial é gerada por build_diagrams.py.
+flowchart LR
+  subgraph F[1 · Fontes]
+    G[GTFS SPTrans amostra]:::ok
+    GC[GTFS completo / Olho Vivo]:::plan
+    O[OpenStreetMap tiles]:::ok
+    R[Relatos da comunidade]:::ok
+    U[Uso da plataforma\ncom consentimento]:::ok
+  end
+  G --> I[2 · Ingestão\nbronze.py · SHA-256]
+  I --> B[(3 · Bronze\nraw.zip + _ingestion.json)]
+  B --> S[4–5 · Silver\nlimpeza + 54 regras]
+  S -.reprovados.-> Q[(Quarentena)]
+  S --> GO[6 · Gold\ntrechos · conexões · traçados\nanomalias z robusto]
+  GO --> DB[(7 · PostgreSQL\ndataset_versions)]
+  DB --> AN[8 · Análise\ndescritiva · k=3]
+  DB --> AL[9 · Algoritmos\nDijkstra multicritério · confiança]
+  R --> DB
+  U --> DB
+  AL --> RE[10 · Recomendações explicadas]
+  AN --> AP
+  RE --> AP[11 · Apresentação\nplanejador · mapa · alertas · relatórios]
+  O --> AP
+  AP --> M[12 · Feedback e monitoramento]
+  M -.-> S
+  M -.-> AL
+  classDef ok stroke:#16805a,stroke-width:2px
+  classDef plan stroke:#5b6270,stroke-dasharray:5 4

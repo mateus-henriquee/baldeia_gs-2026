@@ -1,0 +1,96 @@
+{
+ "gerado_em": "2026-11-05",
+ "origem": "Santo Amaro",
+ "destino": "Sé",
+ "partida": "quinta-feira, 08:00",
+ "aviso": "Instantâneo real do planejador sobre o GTFS histórico da SPTrans, incluindo relatos SINTÉTICOS de demonstração.",
+ "dataset": "dsv_b944d5374b20_p1.0.0",
+ "alternativas": [
+  {
+   "id": "alt1",
+   "rotulos": [
+    "Mais rápida"
+   ],
+   "linhas": [
+    {
+     "nome": "CPTM L09",
+     "cor": "#01A9A7",
+     "cor_texto": "#000000"
+    },
+    {
+     "nome": "METRÔ L4",
+     "cor": "#FFFF00",
+     "cor_texto": "#000000"
+    },
+    {
+     "nome": "METRÔ L1",
+     "cor": "#0455A1",
+     "cor_texto": "#FFFFFF"
+    }
+   ],
+   "metricas": {
+    "total_min": 48,
+    "viagem_min": 41,
+    "espera_min": 4,
+    "caminhada_min": 3,
+    "caminhada_m": 157,
+    "baldeacoes": 2,
+    "embarques": 3,
+    "relatos_lotacao": 1,
+    "relatos_ocorrencias": 1,
+    "partida": "08:02",
+    "chegada": "08:48"
+   },
+   "componentes_s": {
+    "viagem": 2464,
+    "espera": 240,
+    "caminhada": 186,
+    "embarques": 3,
+    "lotacao": 0.432,
+    "ocorrencias": 0.335
+   }
+  },
+  {
+   "id": "alt2",
+   "rotulos": [
+    "Menos baldeações",
+    "Menos caminhada",
+    "Potencialmente menos movimentada",
+    "Menos ocorrências reportadas"
+   ],
+   "linhas": [
+    {
+     "nome": "METRÔ L5",
+     "cor": "#9B3894",
+     "cor_texto": "#FFFFFF"
+    },
+    {
+     "nome": "METRÔ L1",
+     "cor": "#0455A1",
+     "cor_texto": "#FFFFFF"
+    }
+   ],
+   "metricas": {
+    "total_min": 50,
+    "viagem_min": 46,
+    "espera_min": 4,
+    "caminhada_min": 0,
+    "caminhada_m": 11,
+    "baldeacoes": 1,
+    "embarques": 2,
+    "relatos_lotacao": 0,
+    "relatos_ocorrencias": 0,
+    "partida": "08:03",
+    "chegada": "08:50"
+   },
+   "componentes_s": {
+    "viagem": 2764,
+    "espera": 240,
+    "caminhada": 13,
+    "embarques": 2,
+    "lotacao": 0,
+    "ocorrencias": 0
+   }
+  }
+ ]
+}

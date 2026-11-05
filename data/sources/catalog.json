@@ -1,0 +1,162 @@
+{
+  "consultado_em": "2026-11-05",
+  "observacao": "Catálogo de fontes pesquisadas. 'integration_status' descreve o estado REAL neste repositório. Detalhes e evidências em docs/pesquisa-fontes-de-dados.md.",
+  "fontes": [
+    {
+      "source_id": "sptrans_gtfs_amostra",
+      "name": "GTFS SPTrans — amostra do centro de São Paulo",
+      "owner": "São Paulo Transporte S/A (SPTrans), publicação original; redistribuído pelo projeto r5py (dados de exemplo derivados do r5r/Ipea)",
+      "url": "https://github.com/r5py/r5py.sampledata.sao_paulo",
+      "category": "oficial",
+      "integration_status": "integrada_amostra",
+      "data_format": "GTFS Schedule (CSV em .zip): agency, stops, routes, trips, stop_times, calendar, frequencies, shapes",
+      "update_frequency": "Estática. Calendário de 2008-01-01 a 2020-05-01 (histórico).",
+      "license": "Segundo o r5py: publicado pela SPTrans para uso aberto, sem licença específica declarada. Pacote r5py: GPL-3.0-or-later ou MIT.",
+      "limitations": "Recorte do centro (19 linhas: 7 CPTM, 6 Metrô, 6 ônibus). Oferta planejada e histórica: não representa a operação atual."
+    },
+    {
+      "source_id": "sptrans_gtfs",
+      "name": "GTFS SPTrans completo (área do desenvolvedor)",
+      "owner": "São Paulo Transporte S/A (SPTrans)",
+      "url": "https://www.sptrans.com.br/desenvolvedores/",
+      "category": "oficial",
+      "integration_status": "planejada",
+      "data_format": "GTFS Schedule (.zip)",
+      "update_frequency": "Frequente (relatos públicos indicam atualização entre diária e semanal; confirmar no portal).",
+      "license": "Exige cadastro e aceite de termos na área do desenvolvedor. Termos não verificados neste projeto (página não acessível a partir do ambiente de desenvolvimento).",
+      "limitations": "Download requer login. Ônibus descritos por frequências (frequencies.txt)."
+    },
+    {
+      "source_id": "sptrans_olhovivo",
+      "name": "API Olho Vivo (SPTrans)",
+      "owner": "São Paulo Transporte S/A (SPTrans)",
+      "url": "https://www.sptrans.com.br/desenvolvedores/",
+      "category": "oficial",
+      "integration_status": "planejada",
+      "data_format": "API REST (JSON) com token: linhas, paradas, posição de veículos, previsão de chegada, corredores",
+      "update_frequency": "Tempo real ou próximo do tempo real (posições enviadas pelos veículos).",
+      "license": "Token gratuito após cadastro de aplicativo. Termos a confirmar.",
+      "limitations": "Formato próprio (não é GTFS Realtime). Sujeita a instabilidades e manutenções. Cobre ônibus municipais, não Metrô/CPTM."
+    },
+    {
+      "source_id": "emtu_dados_abertos",
+      "name": "EMTU — Dados abertos (GTFS e API)",
+      "owner": "Empresa Metropolitana de Transportes Urbanos de São Paulo (EMTU)",
+      "url": "http://www.emtu.sp.gov.br/emtu/dados-abertos/dados-abertos-principal/acesse-os-dados-abertos.fss",
+      "category": "oficial",
+      "integration_status": "planejada",
+      "data_format": "GTFS e API (cadastro prévio)",
+      "update_frequency": "Periódica (segundo a EMTU).",
+      "license": "Público e gratuito; cadastro e aceite de condições que proíbem venda, sublicenciamento ou aluguel dos dados.",
+      "limitations": "Ônibus metropolitanos (intermunicipais). Usuários já relataram GTFS desatualizado (pesquisa EMTU, 2018)."
+    },
+    {
+      "source_id": "metro_transparencia",
+      "name": "Metrô SP — Portal da Transparência (indicadores de demanda)",
+      "owner": "Companhia do Metropolitano de São Paulo (Metrô)",
+      "url": "https://transparencia.metrosp.com.br/",
+      "category": "oficial",
+      "integration_status": "planejada",
+      "data_format": "PDF e planilhas (indicadores mensais: entradas por estação — média dos dias úteis, passageiros por linha)",
+      "update_frequency": "Mensal/anual.",
+      "license": "Transparência ativa; termos de reuso não explicitados nos documentos consultados.",
+      "limitations": "Dados agregados mensais: servem para padrões de movimento por estação, não para lotação em tempo real. Linhas concedidas (4, 5, 8, 9) podem ter dados em outros operadores."
+    },
+    {
+      "source_id": "gtfs_realtime_sp",
+      "name": "GTFS Realtime oficial para São Paulo",
+      "owner": "—",
+      "url": "https://gtfs.org/realtime/",
+      "category": "oficial",
+      "integration_status": "indisponivel",
+      "data_format": "Protocol Buffers (TripUpdate, VehiclePosition, Alert)",
+      "update_frequency": "—",
+      "license": "—",
+      "limitations": "Não identificamos, nesta pesquisa, feed público GTFS Realtime de SPTrans, Metrô ou CPTM. A tabela service_alerts está pronta para receber alertas oficiais quando houver fonte."
+    },
+    {
+      "source_id": "osm_tiles",
+      "name": "OpenStreetMap — mapa base (tiles)",
+      "owner": "OpenStreetMap Foundation e contribuidores",
+      "url": "https://www.openstreetmap.org/copyright",
+      "category": "geografica",
+      "integration_status": "integrada",
+      "data_format": "Tiles raster (PNG) via tile.openstreetmap.org",
+      "update_frequency": "Contínua (edição colaborativa).",
+      "license": "Dados: ODbL. Exige atribuição '© OpenStreetMap contributors' e respeito à política de uso de tiles (sem uso pesado, Referer/User-Agent identificáveis).",
+      "limitations": "Servidores voluntários: uso pesado proibido sem permissão. Em produção, usar provedor próprio ou comercial (URL configurável via VITE_MAP_TILE_URL)."
+    },
+    {
+      "source_id": "osm_overpass",
+      "name": "Overpass API (estabelecimentos próximos)",
+      "owner": "Comunidade OSM / FOSSGIS (instância principal)",
+      "url": "https://wiki.openstreetmap.org/wiki/Overpass_API",
+      "category": "geografica",
+      "integration_status": "planejada",
+      "data_format": "Overpass QL → JSON",
+      "update_frequency": "Minutos (replicação OSM).",
+      "license": "Dados ODbL; instâncias públicas com política de uso e capacidade limitadas.",
+      "limitations": "Sugestão de cafeterias depende desta integração; enquanto não integrada, a funcionalidade informa a ausência da fonte."
+    },
+    {
+      "source_id": "geosampa",
+      "name": "GeoSampa — mapa digital da cidade",
+      "owner": "Prefeitura de São Paulo — Secretaria Municipal de Urbanismo e Licenciamento (SMUL)",
+      "url": "https://geosampa.prefeitura.sp.gov.br",
+      "category": "geografica",
+      "integration_status": "planejada",
+      "data_format": "Camadas geográficas para download (ex.: corredores e terminais de ônibus) e metadados",
+      "update_frequency": "Variável por camada (atualizada pelas secretarias).",
+      "license": "Dados abertos para download, conforme a Prefeitura.",
+      "limitations": "Uso previsto: enriquecer o mapa com corredores e terminais. Não integrado nesta versão."
+    },
+    {
+      "source_id": "mobility_database",
+      "name": "Mobility Database (catálogo de feeds)",
+      "owner": "MobilityData",
+      "url": "https://mobilitydatabase.org",
+      "category": "oficial",
+      "integration_status": "planejada",
+      "data_format": "Catálogo + cópias diárias de feeds GTFS e relatórios de validação",
+      "update_frequency": "Diária.",
+      "license": "Varia por feed.",
+      "limitations": "Útil para descobrir feeds de outras cidades e validar qualidade; não substitui a fonte do operador."
+    },
+    {
+      "source_id": "comunidade_baldeia",
+      "name": "Relatos comunitários Baldeia",
+      "owner": "Baldeia (controladora) — conteúdo enviado por usuários cadastrados",
+      "url": "/app/comunidade",
+      "category": "comunitaria",
+      "integration_status": "integrada",
+      "data_format": "Registros na tabela community_reports",
+      "update_frequency": "Contínua.",
+      "license": "Termos de uso da plataforma.",
+      "limitations": "Relatos não são verificados oficialmente. Cobertura depende de onde há usuários: ausência de relatos não significa ausência de problemas."
+    },
+    {
+      "source_id": "uso_plataforma",
+      "name": "Dados de uso (viagens, favoritos, feedback)",
+      "owner": "Baldeia (controladora)",
+      "url": "/app/privacidade",
+      "category": "comportamental",
+      "integration_status": "integrada",
+      "data_format": "Tabelas journeys, favorite_places, recommendations",
+      "update_frequency": "Contínua.",
+      "license": "Tratamento conforme finalidades e consentimentos registrados.",
+      "limitations": "Histórico só é salvo com consentimento; retenção de 180 dias."
+    },
+    {
+      "source_id": "demo_sintetico",
+      "name": "Dados sintéticos de demonstração",
+      "owner": "Baldeia (gerados por script com semente fixa)",
+      "url": "apps/api/src/db/demo.ts",
+      "category": "demonstrativa",
+      "integration_status": "integrada",
+      "data_format": "Registros com is_demo = true",
+      "update_frequency": "Gerados na inicialização (opcional, SEED_DEMO=true).",
+      "license": "—",
+      "limitations": "Fictícios. Servem apenas para demonstrar fluxos e análises; nunca representam ocorrências reais."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date_iso,end_date_iso,expirado
+USD,1,1,1,1,1,1,1,2008-01-01,2020-05-01,True
+U__,1,1,1,1,1,0,0,2008-01-01,2020-05-01,True
+US_,1,1,1,1,1,1,0,2008-01-01,2020-05-01,True
+_SD,0,0,0,0,0,1,1,2008-01-01,2020-05-01,True
+__D,0,0,0,0,0,0,1,2008-01-01,2020-05-01,True
+_S_,0,0,0,0,0,1,0,2008-01-01,2020-05-01,True

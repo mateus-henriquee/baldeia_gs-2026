@@ -1,0 +1,99 @@
+{
+  "dataset_version": "dsv_b944d5374b20_p1.1.0",
+  "pipeline_version": "1.1.0",
+  "gerado_em": "2026-11-05T03:54:26+00:00",
+  "fonte": {
+    "source_id": "sptrans_gtfs_amostra",
+    "arquivo": "/home/claude/baldeia/data/sources/sptrans-gtfs-amostra/spo_gtfs.zip",
+    "sha256": "b944d5374b207e3f07613123b05366e4d16e3133e4d08ccd6aa089d09489e2c7",
+    "bytes": 192229
+  },
+  "ingestao": {
+    "job_id": "job_20261105T035426Z_b944d537",
+    "bronze_path": "data/bronze/sptrans_gtfs_amostra/job_20261105T035426Z_b944d537",
+    "duplicado_de": "job_20261105T032305Z_b944d537",
+    "iniciado_em": "2026-11-05T03:54:26+00:00",
+    "finalizado_em": "2026-11-05T03:54:26+00:00"
+  },
+  "etapas": [
+    {
+      "etapa": "ingestao_bronze",
+      "duracao_ms": 11.4,
+      "job_id": "job_20261105T035426Z_b944d537",
+      "status": "success",
+      "linhas_recebidas": {
+        "agency.txt": 1,
+        "calendar.txt": 6,
+        "frequencies.txt": 704,
+        "routes.txt": 19,
+        "shapes.txt": 12295,
+        "stop_times.txt": 860,
+        "stops.txt": 654,
+        "trips.txt": 36
+      }
+    },
+    {
+      "etapa": "tratamento_silver",
+      "duracao_ms": 118.8,
+      "linhas": {
+        "agency": 1,
+        "calendar": 6,
+        "frequencies": 704,
+        "routes": 19,
+        "shapes": 12295,
+        "stop_times": 860,
+        "stops": 654,
+        "trips": 36
+      },
+      "quarentena": {}
+    },
+    {
+      "etapa": "integracao_gold",
+      "duracao_ms": 160.2,
+      "linhas": {
+        "agencies": 1,
+        "routes": 19,
+        "stops": 654,
+        "trips": 36,
+        "stop_times": 860,
+        "route_segments": 824,
+        "stop_transfers": 2416,
+        "route_shapes": 36,
+        "frequencies": 704,
+        "calendar": 6
+      }
+    },
+    {
+      "etapa": "analise_descritiva",
+      "duracao_ms": 42.6
+    }
+  ],
+  "premissas": {
+    "raio_conexao_m": 400,
+    "velocidade_caminhada_mps": 1.1,
+    "fator_desvio_caminhada": 1.3,
+    "limiar_z_robusto": 3.5
+  },
+  "qualidade": {
+    "total_checks": 54,
+    "by_status": {
+      "aprovado": 51,
+      "aprovado_com_ressalvas": 3
+    },
+    "quarantined_records": {},
+    "blocking_failures": []
+  },
+  "saidas": {
+    "agencies": "data/gold/sptrans_gtfs_amostra/agencies.csv",
+    "routes": "data/gold/sptrans_gtfs_amostra/routes.csv",
+    "stops": "data/gold/sptrans_gtfs_amostra/stops.csv",
+    "trips": "data/gold/sptrans_gtfs_amostra/trips.csv",
+    "stop_times": "data/gold/sptrans_gtfs_amostra/stop_times.csv",
+    "route_segments": "data/gold/sptrans_gtfs_amostra/route_segments.csv",
+    "stop_transfers": "data/gold/sptrans_gtfs_amostra/stop_transfers.csv",
+    "route_shapes": "data/gold/sptrans_gtfs_amostra/route_shapes.geojson",
+    "frequencies": "data/gold/sptrans_gtfs_amostra/frequencies.csv",
+    "calendar": "data/gold/sptrans_gtfs_amostra/calendar.csv"
+  },
+  "duracao_total_ms": 333.5
+}

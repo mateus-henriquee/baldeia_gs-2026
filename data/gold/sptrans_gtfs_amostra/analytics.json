@@ -1,0 +1,970 @@
+{
+  "aviso": "Estatísticas da oferta PLANEJADA (GTFS). Não representam lotação, atrasos ou operação observada.",
+  "rede": {
+    "linhas_por_modo": {
+      "metro": 6,
+      "onibus": 6,
+      "trem": 7
+    },
+    "paradas_total": 654,
+    "estacoes": 188,
+    "pontos_onibus": 466,
+    "paradas_sem_viagens": 0,
+    "viagens_modelo": 36,
+    "trechos": 824,
+    "conexoes_a_pe": 2416,
+    "caminhada_conexao_mediana_s": 294.0
+  },
+  "oferta_por_hora": {
+    "base": "frequencies.txt, serviços que operam às quartas-feiras",
+    "por_modo": {
+      "metro": {
+        "horas": [
+          {
+            "hora": 0,
+            "linhas_sentido": 2,
+            "intervalo_mediano_min": 8.0
+          },
+          {
+            "hora": 4,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 15.0
+          },
+          {
+            "hora": 5,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 5.0
+          },
+          {
+            "hora": 6,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 2.5
+          },
+          {
+            "hora": 7,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 2.5
+          },
+          {
+            "hora": 8,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 2.5
+          },
+          {
+            "hora": 9,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 3.0
+          },
+          {
+            "hora": 10,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 3.0
+          },
+          {
+            "hora": 11,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 3.0
+          },
+          {
+            "hora": 12,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 3.0
+          },
+          {
+            "hora": 13,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 3.0
+          },
+          {
+            "hora": 14,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 3.0
+          },
+          {
+            "hora": 15,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 3.0
+          },
+          {
+            "hora": 16,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 3.0
+          },
+          {
+            "hora": 17,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 2.5
+          },
+          {
+            "hora": 18,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 2.5
+          },
+          {
+            "hora": 19,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 2.0
+          },
+          {
+            "hora": 20,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 2.5
+          },
+          {
+            "hora": 21,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 4.0
+          },
+          {
+            "hora": 22,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 5.5
+          },
+          {
+            "hora": 23,
+            "linhas_sentido": 12,
+            "intervalo_mediano_min": 7.0
+          }
+        ],
+        "menor_intervalo_mediano_min": 2.0,
+        "horas_de_maior_oferta": [
+          19
+        ]
+      },
+      "onibus": {
+        "horas": [
+          {
+            "hora": 0,
+            "linhas_sentido": 4,
+            "intervalo_mediano_min": 60.0
+          },
+          {
+            "hora": 4,
+            "linhas_sentido": 5,
+            "intervalo_mediano_min": 30.0
+          },
+          {
+            "hora": 5,
+            "linhas_sentido": 10,
+            "intervalo_mediano_min": 20.0
+          },
+          {
+            "hora": 6,
+            "linhas_sentido": 10,
+            "intervalo_mediano_min": 15.0
+          },
+          {
+            "hora": 7,
+            "linhas_sentido": 10,
+            "intervalo_mediano_min": 15.0
+          },
+          {
+            "hora": 8,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 12.0
+          },
+          {
+            "hora": 9,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 15.0
+          },
+          {
+            "hora": 10,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 15.0
+          },
+          {
+            "hora": 11,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 15.0
+          },
+          {
+            "hora": 12,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 15.0
+          },
+          {
+            "hora": 13,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 15.0
+          },
+          {
+            "hora": 14,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 15.0
+          },
+          {
+            "hora": 15,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 15.0
+          },
+          {
+            "hora": 16,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 15.0
+          },
+          {
+            "hora": 17,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 15.0
+          },
+          {
+            "hora": 18,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 15.0
+          },
+          {
+            "hora": 19,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 20.0
+          },
+          {
+            "hora": 20,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 20.0
+          },
+          {
+            "hora": 21,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 20.0
+          },
+          {
+            "hora": 22,
+            "linhas_sentido": 9,
+            "intervalo_mediano_min": 20.0
+          },
+          {
+            "hora": 23,
+            "linhas_sentido": 8,
+            "intervalo_mediano_min": 30.0
+          }
+        ],
+        "menor_intervalo_mediano_min": 12.0,
+        "horas_de_maior_oferta": [
+          8
+        ]
+      },
+      "trem": {
+        "horas": [
+          {
+            "hora": 4,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 10.0
+          },
+          {
+            "hora": 5,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 6.0
+          },
+          {
+            "hora": 6,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 5.0
+          },
+          {
+            "hora": 7,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 5.0
+          },
+          {
+            "hora": 8,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 5.0
+          },
+          {
+            "hora": 9,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 8.0
+          },
+          {
+            "hora": 10,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 8.0
+          },
+          {
+            "hora": 11,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 8.0
+          },
+          {
+            "hora": 12,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 8.0
+          },
+          {
+            "hora": 13,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 8.0
+          },
+          {
+            "hora": 14,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 8.0
+          },
+          {
+            "hora": 15,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 8.0
+          },
+          {
+            "hora": 16,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 6.0
+          },
+          {
+            "hora": 17,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 6.0
+          },
+          {
+            "hora": 18,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 6.0
+          },
+          {
+            "hora": 19,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 6.0
+          },
+          {
+            "hora": 20,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 10.0
+          },
+          {
+            "hora": 21,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 10.0
+          },
+          {
+            "hora": 22,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 10.0
+          },
+          {
+            "hora": 23,
+            "linhas_sentido": 14,
+            "intervalo_mediano_min": 10.0
+          }
+        ],
+        "menor_intervalo_mediano_min": 5.0,
+        "horas_de_maior_oferta": [
+          6,
+          7,
+          8
+        ]
+      }
+    }
+  },
+  "velocidade_trechos": {
+    "unidade": "km/h",
+    "por_modo": {
+      "metro": {
+        "n": 164,
+        "media": 26.45,
+        "mediana": 25.5,
+        "p25": 20.06,
+        "p75": 31.34,
+        "iqr": 11.28,
+        "desvio_padrao": 8.75,
+        "min": 10.45,
+        "max": 57.38
+      },
+      "onibus": {
+        "n": 470,
+        "media": 10.03,
+        "mediana": 9.2,
+        "p25": 6.83,
+        "p75": 12.23,
+        "iqr": 5.4,
+        "desvio_padrao": 5.12,
+        "min": 0.29,
+        "max": 38.51
+      },
+      "trem": {
+        "n": 190,
+        "media": 26.45,
+        "mediana": 23.69,
+        "p25": 15.11,
+        "p75": 33.05,
+        "iqr": 17.94,
+        "desvio_padrao": 16.89,
+        "min": 7.82,
+        "max": 130.88
+      }
+    },
+    "anomalias": [
+      {
+        "route_id": "CPTM L11",
+        "de": "Tatuapé",
+        "para": "Dom Bosco",
+        "distancia_m": 13088.3,
+        "tempo_s": 360,
+        "velocidade_kmh": 130.88,
+        "z_robusto": 8.26
+      },
+      {
+        "route_id": "CPTM L11",
+        "de": "Dom Bosco",
+        "para": "Tatuapé",
+        "distancia_m": 13088.3,
+        "tempo_s": 360,
+        "velocidade_kmh": 130.88,
+        "z_robusto": 8.26
+      },
+      {
+        "route_id": "4491-10",
+        "de": "Av. Miguel Stefano, 2710",
+        "para": "Av. Miguel Stefano, 3688",
+        "distancia_m": 930.7,
+        "tempo_s": 87,
+        "velocidade_kmh": 38.51,
+        "z_robusto": 7.78
+      },
+      {
+        "route_id": "2161-10",
+        "de": "Pq. D. Pedro II",
+        "para": "Parada Caetano Pinto",
+        "distancia_m": 924.9,
+        "tempo_s": 94,
+        "velocidade_kmh": 35.42,
+        "z_robusto": 6.96
+      },
+      {
+        "route_id": "2161-10",
+        "de": "R. Jequitinhonha, 204",
+        "para": "Av. Guilherme Cotching, 434",
+        "distancia_m": 915.6,
+        "tempo_s": 94,
+        "velocidade_kmh": 35.07,
+        "z_robusto": 6.87
+      },
+      {
+        "route_id": "2105-10",
+        "de": "Av. Cruzeiro Do Sul, 1801",
+        "para": "Av. Cruzeiro Do Sul, 835",
+        "distancia_m": 924.7,
+        "tempo_s": 108,
+        "velocidade_kmh": 30.82,
+        "z_robusto": 5.74
+      },
+      {
+        "route_id": "4491-10",
+        "de": "Av. Prof. Abraão De Morais, 1446",
+        "para": "Av. Miguel Stefano, 2180",
+        "distancia_m": 675.0,
+        "tempo_s": 87,
+        "velocidade_kmh": 27.93,
+        "z_robusto": 4.97
+      },
+      {
+        "route_id": "2105-10",
+        "de": "Museu Cmtc",
+        "para": "Av. Cruzeiro Do Sul, 1800",
+        "distancia_m": 946.3,
+        "tempo_s": 128,
+        "velocidade_kmh": 26.61,
+        "z_robusto": 4.62
+      },
+      {
+        "route_id": "4491-10",
+        "de": "Av. D. Pedro I - Pista Local",
+        "para": "Av. Ricardo Jafet, 366",
+        "distancia_m": 628.2,
+        "tempo_s": 87,
+        "velocidade_kmh": 25.99,
+        "z_robusto": 4.46
+      },
+      {
+        "route_id": "4491-10",
+        "de": "Av. Miguel Stefano, 3687",
+        "para": "Av. Miguel Stefano, 3031",
+        "distancia_m": 686.2,
+        "tempo_s": 96,
+        "velocidade_kmh": 25.73,
+        "z_robusto": 4.39
+      },
+      {
+        "route_id": "6450-51",
+        "de": "Plat. Lat. Terminal Joao Dias, 3578",
+        "para": "Parada Centro Africana B/C",
+        "distancia_m": 1180.8,
+        "tempo_s": 174,
+        "velocidade_kmh": 24.43,
+        "z_robusto": 4.04
+      },
+      {
+        "route_id": "CPTM L12",
+        "de": "Tatuapé",
+        "para": "Eng. Goulart",
+        "distancia_m": 7395.9,
+        "tempo_s": 360,
+        "velocidade_kmh": 73.96,
+        "z_robusto": 3.88
+      },
+      {
+        "route_id": "CPTM L12",
+        "de": "Eng. Goulart",
+        "para": "Tatuapé",
+        "distancia_m": 7395.9,
+        "tempo_s": 360,
+        "velocidade_kmh": 73.96,
+        "z_robusto": 3.88
+      },
+      {
+        "route_id": "METRÔ L4",
+        "de": "Butantã",
+        "para": "São Paulo - Morumbi",
+        "distancia_m": 2231.6,
+        "tempo_s": 140,
+        "velocidade_kmh": 57.38,
+        "z_robusto": 3.83
+      },
+      {
+        "route_id": "METRÔ L4",
+        "de": "São Paulo - Morumbi",
+        "para": "Butantã",
+        "distancia_m": 2231.6,
+        "tempo_s": 140,
+        "velocidade_kmh": 57.38,
+        "z_robusto": 3.83
+      },
+      {
+        "route_id": "6450-51",
+        "de": "Jose Maria Lisboa C/B 2",
+        "para": "Getúlio Vargas B/C",
+        "distancia_m": 1114.5,
+        "tempo_s": 174,
+        "velocidade_kmh": 23.06,
+        "z_robusto": 3.68
+      },
+      {
+        "route_id": "4491-10",
+        "de": "Av. Ricardo Jafet, 1898",
+        "para": "Av. Ricardo Jafet, 2130",
+        "distancia_m": 546.0,
+        "tempo_s": 87,
+        "velocidade_kmh": 22.59,
+        "z_robusto": 3.56
+      },
+      {
+        "route_id": "CPTM L09",
+        "de": "Jurubatuba",
+        "para": "Autódromo",
+        "distancia_m": 3487.5,
+        "tempo_s": 180,
+        "velocidade_kmh": 69.75,
+        "z_robusto": 3.55
+      },
+      {
+        "route_id": "CPTM L09",
+        "de": "Autódromo",
+        "para": "Jurubatuba",
+        "distancia_m": 3487.5,
+        "tempo_s": 180,
+        "velocidade_kmh": 69.75,
+        "z_robusto": 3.55
+      }
+    ],
+    "total_anomalias": 19,
+    "trechos_imputados": 0
+  },
+  "duracao_viagens": [
+    {
+      "trip_id": "METRÔ 15-0",
+      "route_id": "METRÔ 15",
+      "duracao_min": 24.0,
+      "extensao_km": 8.41,
+      "trechos": 6,
+      "short_name": "METRÔ 15",
+      "long_name": "ORATÓRIO - VILA UNIÃO",
+      "mode": "metro",
+      "velocidade_media_kmh": 21.02
+    },
+    {
+      "trip_id": "METRÔ 15-1",
+      "route_id": "METRÔ 15",
+      "duracao_min": 24.0,
+      "extensao_km": 8.41,
+      "trechos": 6,
+      "short_name": "METRÔ 15",
+      "long_name": "ORATÓRIO - VILA UNIÃO",
+      "mode": "metro",
+      "velocidade_media_kmh": 21.02
+    },
+    {
+      "trip_id": "METRÔ L1-0",
+      "route_id": "METRÔ L1",
+      "duracao_min": 41.07,
+      "extensao_km": 19.81,
+      "trechos": 22,
+      "short_name": "METRÔ L1",
+      "long_name": "TUCURUVI - JABAQUARA",
+      "mode": "metro",
+      "velocidade_media_kmh": 28.94
+    },
+    {
+      "trip_id": "METRÔ L1-1",
+      "route_id": "METRÔ L1",
+      "duracao_min": 41.07,
+      "extensao_km": 19.81,
+      "trechos": 22,
+      "short_name": "METRÔ L1",
+      "long_name": "TUCURUVI - JABAQUARA",
+      "mode": "metro",
+      "velocidade_media_kmh": 28.94
+    },
+    {
+      "trip_id": "METRÔ L2-0",
+      "route_id": "METRÔ L2",
+      "duracao_min": 30.0,
+      "extensao_km": 14.39,
+      "trechos": 12,
+      "short_name": "METRÔ L2",
+      "long_name": "VILA MADALENA - VILA PRUDENTE",
+      "mode": "metro",
+      "velocidade_media_kmh": 28.77
+    },
+    {
+      "trip_id": "METRÔ L2-1",
+      "route_id": "METRÔ L2",
+      "duracao_min": 30.0,
+      "extensao_km": 14.39,
+      "trechos": 12,
+      "short_name": "METRÔ L2",
+      "long_name": "VILA MADALENA - VILA PRUDENTE",
+      "mode": "metro",
+      "velocidade_media_kmh": 28.77
+    },
+    {
+      "trip_id": "METRÔ L3-0",
+      "route_id": "METRÔ L3",
+      "duracao_min": 53.83,
+      "extensao_km": 21.42,
+      "trechos": 17,
+      "short_name": "METRÔ L3",
+      "long_name": "CORINTHIANS - ITAQUERA - PALMEIRAS - BARRA FUNDA",
+      "mode": "metro",
+      "velocidade_media_kmh": 23.87
+    },
+    {
+      "trip_id": "METRÔ L3-1",
+      "route_id": "METRÔ L3",
+      "duracao_min": 53.83,
+      "extensao_km": 21.42,
+      "trechos": 17,
+      "short_name": "METRÔ L3",
+      "long_name": "CORINTHIANS - ITAQUERA - PALMEIRAS - BARRA FUNDA",
+      "mode": "metro",
+      "velocidade_media_kmh": 23.87
+    },
+    {
+      "trip_id": "METRÔ L4-0",
+      "route_id": "METRÔ L4",
+      "duracao_min": 21.0,
+      "extensao_km": 10.94,
+      "trechos": 9,
+      "short_name": "METRÔ L4",
+      "long_name": "SÃO PAULO - MORUMBI - LUZ",
+      "mode": "metro",
+      "velocidade_media_kmh": 31.25
+    },
+    {
+      "trip_id": "METRÔ L4-1",
+      "route_id": "METRÔ L4",
+      "duracao_min": 21.0,
+      "extensao_km": 10.94,
+      "trechos": 9,
+      "short_name": "METRÔ L4",
+      "long_name": "SÃO PAULO - MORUMBI - LUZ",
+      "mode": "metro",
+      "velocidade_media_kmh": 31.25
+    },
+    {
+      "trip_id": "METRÔ L5-0",
+      "route_id": "METRÔ L5",
+      "duracao_min": 48.0,
+      "extensao_km": 18.67,
+      "trechos": 16,
+      "short_name": "METRÔ L5",
+      "long_name": "CAPAO REDONDO - CHÁCARA KLABIN",
+      "mode": "metro",
+      "velocidade_media_kmh": 23.34
+    },
+    {
+      "trip_id": "METRÔ L5-1",
+      "route_id": "METRÔ L5",
+      "duracao_min": 48.0,
+      "extensao_km": 18.67,
+      "trechos": 16,
+      "short_name": "METRÔ L5",
+      "long_name": "CAPAO REDONDO - CHÁCARA KLABIN",
+      "mode": "metro",
+      "velocidade_media_kmh": 23.34
+    },
+    {
+      "trip_id": "2002-10-0",
+      "route_id": "2002-10",
+      "duracao_min": 48.0,
+      "extensao_km": 5.25,
+      "trechos": 21,
+      "short_name": "2002-10",
+      "long_name": "Term. Pq. D. Pedro Ii - Term. Bandeira",
+      "mode": "onibus",
+      "velocidade_media_kmh": 6.56
+    },
+    {
+      "trip_id": "2105-10-0",
+      "route_id": "2105-10",
+      "duracao_min": 108.0,
+      "extensao_km": 16.35,
+      "trechos": 59,
+      "short_name": "2105-10",
+      "long_name": "Jd. Filhos Da Terra - Lgo. Da Concórdia",
+      "mode": "onibus",
+      "velocidade_media_kmh": 9.08
+    },
+    {
+      "trip_id": "2105-10-1",
+      "route_id": "2105-10",
+      "duracao_min": 111.0,
+      "extensao_km": 16.24,
+      "trechos": 51,
+      "short_name": "2105-10",
+      "long_name": "Jd. Filhos Da Terra - Lgo. Da Concórdia",
+      "mode": "onibus",
+      "velocidade_media_kmh": 8.78
+    },
+    {
+      "trip_id": "2161-10-0",
+      "route_id": "2161-10",
+      "duracao_min": 94.0,
+      "extensao_km": 15.0,
+      "trechos": 53,
+      "short_name": "2161-10",
+      "long_name": "Pq. Edu Chaves - Pça. Do Correio",
+      "mode": "onibus",
+      "velocidade_media_kmh": 9.57
+    },
+    {
+      "trip_id": "2161-10-1",
+      "route_id": "2161-10",
+      "duracao_min": 93.0,
+      "extensao_km": 15.73,
+      "trechos": 58,
+      "short_name": "2161-10",
+      "long_name": "Pq. Edu Chaves - Pça. Do Correio",
+      "mode": "onibus",
+      "velocidade_media_kmh": 10.15
+    },
+    {
+      "trip_id": "4491-10-0",
+      "route_id": "4491-10",
+      "duracao_min": 69.0,
+      "extensao_km": 13.27,
+      "trechos": 42,
+      "short_name": "4491-10",
+      "long_name": "Zoológico - Term. Pq. D. Pedro Ii",
+      "mode": "onibus",
+      "velocidade_media_kmh": 11.54
+    },
+    {
+      "trip_id": "4491-10-1",
+      "route_id": "4491-10",
+      "duracao_min": 57.0,
+      "extensao_km": 13.24,
+      "trechos": 38,
+      "short_name": "4491-10",
+      "long_name": "Zoológico - Term. Pq. D. Pedro Ii",
+      "mode": "onibus",
+      "velocidade_media_kmh": 13.94
+    },
+    {
+      "trip_id": "5290-10-0",
+      "route_id": "5290-10",
+      "duracao_min": 110.0,
+      "extensao_km": 16.81,
+      "trechos": 49,
+      "short_name": "5290-10",
+      "long_name": "Div. Diadema - Term. Pq. D. Pedro Ii",
+      "mode": "onibus",
+      "velocidade_media_kmh": 9.17
+    },
+    {
+      "trip_id": "5290-10-1",
+      "route_id": "5290-10",
+      "duracao_min": 122.0,
+      "extensao_km": 16.99,
+      "trechos": 53,
+      "short_name": "5290-10",
+      "long_name": "Div. Diadema - Term. Pq. D. Pedro Ii",
+      "mode": "onibus",
+      "velocidade_media_kmh": 8.35
+    },
+    {
+      "trip_id": "6450-51-0",
+      "route_id": "6450-51",
+      "duracao_min": 137.0,
+      "extensao_km": 25.42,
+      "trechos": 46,
+      "short_name": "6450-51",
+      "long_name": "Valo Velho - Term. Bandeira",
+      "mode": "onibus",
+      "velocidade_media_kmh": 11.13
+    },
+    {
+      "trip_id": "CPTM L07-0",
+      "route_id": "CPTM L07",
+      "duracao_min": 136.0,
+      "extensao_km": 55.18,
+      "trechos": 17,
+      "short_name": "CPTM L07",
+      "long_name": "JUNDIAI - LUZ",
+      "mode": "trem",
+      "velocidade_media_kmh": 24.34
+    },
+    {
+      "trip_id": "CPTM L07-1",
+      "route_id": "CPTM L07",
+      "duracao_min": 136.0,
+      "extensao_km": 55.18,
+      "trechos": 17,
+      "short_name": "CPTM L07",
+      "long_name": "JUNDIAI - LUZ",
+      "mode": "trem",
+      "velocidade_media_kmh": 24.34
+    },
+    {
+      "trip_id": "CPTM L08-0",
+      "route_id": "CPTM L08",
+      "duracao_min": 147.0,
+      "extensao_km": 37.62,
+      "trechos": 21,
+      "short_name": "CPTM L08",
+      "long_name": "AMADOR BUENO - JULIO PRESTES",
+      "mode": "trem",
+      "velocidade_media_kmh": 15.36
+    },
+    {
+      "trip_id": "CPTM L08-1",
+      "route_id": "CPTM L08",
+      "duracao_min": 147.0,
+      "extensao_km": 37.62,
+      "trechos": 21,
+      "short_name": "CPTM L08",
+      "long_name": "AMADOR BUENO - JULIO PRESTES",
+      "mode": "trem",
+      "velocidade_media_kmh": 15.36
+    },
+    {
+      "trip_id": "CPTM L09-0",
+      "route_id": "CPTM L09",
+      "duracao_min": 51.0,
+      "extensao_km": 29.85,
+      "trechos": 17,
+      "short_name": "CPTM L09",
+      "long_name": "GRAJAU - OSASCO",
+      "mode": "trem",
+      "velocidade_media_kmh": 35.11
+    },
+    {
+      "trip_id": "CPTM L09-1",
+      "route_id": "CPTM L09",
+      "duracao_min": 51.0,
+      "extensao_km": 29.85,
+      "trechos": 17,
+      "short_name": "CPTM L09",
+      "long_name": "GRAJAU - OSASCO",
+      "mode": "trem",
+      "velocidade_media_kmh": 35.11
+    },
+    {
+      "trip_id": "CPTM L10-0",
+      "route_id": "CPTM L10",
+      "duracao_min": 84.0,
+      "extensao_km": 33.47,
+      "trechos": 12,
+      "short_name": "CPTM L10",
+      "long_name": "RIO GRANDE DA SERRA - BRÁS",
+      "mode": "trem",
+      "velocidade_media_kmh": 23.91
+    },
+    {
+      "trip_id": "CPTM L10-1",
+      "route_id": "CPTM L10",
+      "duracao_min": 84.0,
+      "extensao_km": 33.47,
+      "trechos": 12,
+      "short_name": "CPTM L10",
+      "long_name": "RIO GRANDE DA SERRA - BRÁS",
+      "mode": "trem",
+      "velocidade_media_kmh": 23.91
+    },
+    {
+      "trip_id": "CPTM L11-0",
+      "route_id": "CPTM L11",
+      "duracao_min": 84.0,
+      "extensao_km": 48.6,
+      "trechos": 14,
+      "short_name": "CPTM L11",
+      "long_name": "ESTUDANTES - LUZ",
+      "mode": "trem",
+      "velocidade_media_kmh": 34.72
+    },
+    {
+      "trip_id": "CPTM L11-1",
+      "route_id": "CPTM L11",
+      "duracao_min": 84.0,
+      "extensao_km": 48.6,
+      "trechos": 14,
+      "short_name": "CPTM L11",
+      "long_name": "ESTUDANTES - LUZ",
+      "mode": "trem",
+      "velocidade_media_kmh": 34.72
+    },
+    {
+      "trip_id": "CPTM L12-0",
+      "route_id": "CPTM L12",
+      "duracao_min": 72.0,
+      "extensao_km": 34.82,
+      "trechos": 12,
+      "short_name": "CPTM L12",
+      "long_name": "CALMON VIANA - BRAS",
+      "mode": "trem",
+      "velocidade_media_kmh": 29.02
+    },
+    {
+      "trip_id": "CPTM L12-1",
+      "route_id": "CPTM L12",
+      "duracao_min": 72.0,
+      "extensao_km": 34.82,
+      "trechos": 12,
+      "short_name": "CPTM L12",
+      "long_name": "CALMON VIANA - BRAS",
+      "mode": "trem",
+      "velocidade_media_kmh": 29.02
+    },
+    {
+      "trip_id": "CPTM L13-0",
+      "route_id": "CPTM L13",
+      "duracao_min": 16.0,
+      "extensao_km": 7.78,
+      "trechos": 2,
+      "short_name": "CPTM L13",
+      "long_name": "AEROPORTO DE GUARULHOS - ENGENHEIRO GOULART",
+      "mode": "trem",
+      "velocidade_media_kmh": 29.18
+    },
+    {
+      "trip_id": "CPTM L13-1",
+      "route_id": "CPTM L13",
+      "duracao_min": 16.0,
+      "extensao_km": 7.78,
+      "trechos": 2,
+      "short_name": "CPTM L13",
+      "long_name": "AEROPORTO DE GUARULHOS - ENGENHEIRO GOULART",
+      "mode": "trem",
+      "velocidade_media_kmh": 29.18
+    }
+  ]
+}

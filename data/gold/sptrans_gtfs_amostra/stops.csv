@@ -1,0 +1,655 @@
+stop_id,name,description,lat,lon,kind,modes,name_search,fora_area_esperada,sem_viagens
+18848,Clínicas,,-23.554022,-46.671108,estacao,metro,clinicas,False,False
+18849,Vila Madalena,,-23.546498,-46.691141,estacao,metro,vila madalena,False,False
+18850,Consolação,,-23.558094,-46.660205,estacao,metro,consolacao,False,False
+18851,Conceição,,-23.635039,-46.641239,estacao,metro,conceicao,False,False
+18852,Jabaquara,,-23.645996,-46.641027,estacao,metro,jabaquara,False,False
+18853,São Judas,,-23.625882,-46.640936,estacao,metro,sao judas,False,False
+18854,Saúde,,-23.618245,-46.639139,estacao,metro,saude,False,False
+18855,Praça Da Árvore,,-23.610583,-46.637918,estacao,metro,praca da arvore,False,False
+18856,Santa Cruz,,-23.598541,-46.636634,estacao,metro,santa cruz,False,False
+18857,Vila Mariana,,-23.589342,-46.634677,estacao,metro,vila mariana,False,False
+18858,Brigadeiro,,-23.567615,-46.649027,estacao,metro,brigadeiro,False,False
+18859,Trianon-masp,,-23.56357,-46.653893,estacao,metro,trianon-masp,False,False
+18860,Ana Rosa,,-23.581203,-46.638489,estacao,metro,ana rosa,False,False
+18861,Paraíso,,-23.5754,-46.6407,estacao,metro,paraiso,False,False
+18862,Vergueiro,,-23.568521,-46.639904,estacao,metro,vergueiro,False,False
+18863,São Joaquim,,-23.561435,-46.638534,estacao,metro,sao joaquim,False,False
+18864,Marechal Deodoro,,-23.533163,-46.657264,estacao,metro,marechal deodoro,False,False
+18865,Santa Cecília,,-23.538095,-46.649009,estacao,metro,santa cecilia,False,False
+18866,República,,-23.544215,-46.642461,estacao,metro,republica,False,False
+18867,Anhangabaú,,-23.5478,-46.6392,estacao,metro,anhangabau,False,False
+18868,Liberdade,,-23.555211,-46.635581,estacao,metro,liberdade,False,False
+18869,Sé,,-23.5505,-46.633305,estacao,metro,se,False,False
+18870,São Bento,,-23.5441,-46.6342,estacao,metro,sao bento,False,False
+18871,Pedro II,,-23.549742,-46.626281,estacao,metro,pedro ii,False,False
+18872,Luz,,-23.5366,-46.6343,estacao,metro,luz,False,False
+18873,Tiradentes,,-23.531324,-46.632672,estacao,metro,tiradentes,False,False
+18874,Armênia,,-23.5254,-46.6292,estacao,metro,armenia,False,False
+18875,Bresser-mooca,,-23.546398,-46.607246,estacao,metro,bresser-mooca,False,False
+18876,Belém,,-23.542922,-46.589676,estacao,metro,belem,False,False
+18877,Portuguesa-tietê,,-23.51624,-46.625149,estacao,metro,portuguesa-tiete,False,False
+18878,Carandiru,,-23.508727,-46.624897,estacao,metro,carandiru,False,False
+18879,Santana,,-23.502716,-46.624716,estacao,metro,santana,False,False
+18880,Jardim São Paulo-ayrton Senna,,-23.492734,-46.617354,estacao,metro,jardim sao paulo-ayrton senna,False,False
+18881,Parada Inglesa,,-23.487111,-46.608877,estacao,metro,parada inglesa,False,False
+18882,Tucuruvi,,-23.480049,-46.603209,estacao,metro,tucuruvi,False,False
+18883,Carrão,,-23.537843,-46.564392,estacao,metro,carrao,False,False
+18884,Penha,,-23.53354,-46.54267,estacao,metro,penha,False,False
+18885,Vila Matilde,,-23.531901,-46.530904,estacao,metro,vila matilde,False,False
+18886,Guilhermina Esperança,,-23.529319,-46.516673,estacao,metro,guilhermina esperanca,False,False
+18887,Patriarca,,-23.531079,-46.501715,estacao,metro,patriarca,False,False
+18888,Artur Alvim,,-23.540068,-46.484833,estacao,metro,artur alvim,False,False
+18889,Eng. Goulart,,-23.498281,-46.520092,estacao,trem,eng. goulart,False,False
+18890,Corinthians-itaquera,,-23.542411,-46.471964,estacao,metro,corinthians-itaquera,False,False
+18891,Comendador Ermelino,,-23.485166,-46.482828,estacao,trem,comendador ermelino,False,False
+18892,Dom Bosco,,-23.541714,-46.447993,estacao,trem,dom bosco,False,False
+18893,José Bonifácio,,-23.53912,-46.431683,estacao,trem,jose bonifacio,False,False
+18894,Antônio Gianetti Neto,,-23.554322,-46.383668,estacao,trem,antonio gianetti neto,False,False
+18895,Guaianazes,,-23.542298,-46.415633,estacao,trem,guaianazes,False,False
+18897,Itaim Paulista,,-23.493989,-46.402304,estacao,trem,itaim paulista,False,False
+18898,Ferraz De Vasconcelos,,-23.540688,-46.368207,estacao,trem,ferraz de vasconcelos,False,False
+18899,Poá,,-23.525211,-46.34325,estacao,trem,poa,False,False
+18900,Eng Manoel Feio,,-23.478636,-46.364469,estacao,trem,eng manoel feio,False,False
+18901,Calmon Viana,,-23.525497,-46.332803,estacao,trem,calmon viana,False,False
+18902,Suzano,,-23.533521,-46.309229,estacao,trem,suzano,False,False
+18906,Santo Amaro,,-23.655909,-46.719702,estacao,trem,santo amaro,False,False
+18907,Jurubatuba,,-23.677465,-46.702213,estacao,trem,jurubatuba,False,False
+18908,Socorro,,-23.66343,-46.71097,estacao,trem,socorro,False,False
+18909,Granja Julieta,,-23.627599,-46.712111,estacao,trem,granja julieta,False,False
+18910,Morumbi,,-23.621533,-46.701677,estacao,trem,morumbi,False,False
+18911,Berrini,,-23.604669,-46.696825,estacao,trem,berrini,False,False
+18912,Vila Olímpia,,-23.593185,-46.692871,estacao,trem,vila olimpia,False,False
+18913,Cidade Jardim,,-23.585337,-46.691293,estacao,trem,cidade jardim,False,False
+18914,Amador Bueno,,-23.5307,-46.983928,estacao,trem,amador bueno,False,False
+18916,Piqueri,,-23.504206,-46.714999,estacao,trem,piqueri,False,False
+18917,Lapa (linha 7),,-23.517538,-46.703952,estacao,trem,lapa (linha 7),False,False
+18918,Lapa (linha 8),,-23.519585,-46.700124,estacao,trem,lapa (linha 8),False,False
+18919,Água Branca,,-23.521231,-46.689237,estacao,trem,agua branca,False,False
+18920,Palmeiras - Barra Funda,,-23.525317,-46.666547,estacao,trem,palmeiras - barra funda,False,False
+18921,Perus,,-23.404054,-46.754465,estacao,trem,perus,False,False
+18922,Jaraguá,,-23.455502,-46.738483,estacao,trem,jaragua,False,False
+18923,Vila Clarice,,-23.470038,-46.744207,estacao,trem,vila clarice,False,False
+18924,Caieiras,,-23.367176,-46.752822,estacao,trem,caieiras,False,False
+18925,Franco Da Rocha,,-23.332181,-46.727614,estacao,trem,franco da rocha,False,False
+18926,Baltazar Fidélis,,-23.310582,-46.722853,estacao,trem,baltazar fidelis,False,False
+18927,Tamanduateí,,-23.592982,-46.589343,estacao,trem,tamanduatei,False,False
+18928,São Caetano,,-23.610281,-46.57033,estacao,trem,sao caetano,False,False
+18929,Utinga,,-23.626196,-46.543623,estacao,trem,utinga,False,False
+18930,Prefeito Saladino,,-23.638762,-46.53686,estacao,trem,prefeito saladino,False,False
+18931,Ribeirão Pires,,-23.713586,-46.414805,estacao,trem,ribeirao pires,False,False
+18932,Rio Grande Da Serra,,-23.742981,-46.392026,estacao,trem,rio grande da serra,False,False
+18934,Capuava,,-23.65851,-46.490542,estacao,trem,capuava,False,False
+18935,Mauá,,-23.668016,-46.461769,estacao,trem,maua,False,False
+18936,Prefeito Celso Daniel - Santo André,,-23.652472,-46.528568,estacao,trem,prefeito celso daniel - santo andre,False,False
+18937,Guapituba,,-23.691321,-46.449263,estacao,trem,guapituba,False,False
+18939,Júlio Prestes,,-23.532964,-46.640763,estacao,trem,julio prestes,False,False
+18940,Luz,,-23.535103,-46.635436,estacao,trem,luz,False,False
+18941,Moóca,,-23.557799,-46.608419,estacao,trem,mooca,False,False
+18942,Ipiranga,,-23.582356,-46.59666,estacao,trem,ipiranga,False,False
+18944,Tatuapé,,-23.5403,-46.5767,estacao,metro,tatuape,False,False
+18946,Santa Rita,,-23.545115,-46.947651,estacao,trem,santa rita,False,False
+18947,Itapevi,,-23.545728,-46.935416,estacao,trem,itapevi,False,False
+18948,Engenheiro Cardoso,,-23.535245,-46.928291,estacao,trem,engenheiro cardoso,False,False
+18949,Sagrado Coração,,-23.52908,-46.91728,estacao,trem,sagrado coracao,False,False
+18950,Jandira,,-23.527721,-46.902507,estacao,trem,jandira,False,False
+18951,Jardim Silveira,,-23.523568,-46.893491,estacao,trem,jardim silveira,False,False
+18952,Jardim Belval,,-23.514306,-46.88929,estacao,trem,jardim belval,False,False
+18953,Barueri,,-23.512644,-46.875113,estacao,trem,barueri,False,False
+18954,Antônio João,,-23.516859,-46.858801,estacao,trem,antonio joao,False,False
+18955,Santa Terezinha,,-23.516347,-46.84807,estacao,trem,santa terezinha,False,False
+18956,Carapicuíba,,-23.518744,-46.835417,estacao,trem,carapicuiba,False,False
+18957,General Miguel Costa,,-23.523639,-46.815998,estacao,trem,general miguel costa,False,False
+18958,Quitaúna,,-23.522871,-46.807085,estacao,trem,quitauna,False,False
+18959,Comandante Sampaio,,-23.52599,-46.796059,estacao,trem,comandante sampaio,False,False
+18960,Osasco,,-23.527834,-46.776007,estacao,trem,osasco,False,False
+18961,Presidente Altino,,-23.530423,-46.760577,estacao,trem,presidente altino,False,False
+18962,Ceasa,,-23.538372,-46.741543,estacao,trem,ceasa,False,False
+18963,Villa Lobos- Jaguaré,,-23.546718,-46.732079,estacao,trem,villa lobos- jaguare,False,False
+18964,Imperatriz Leopoldina,,-23.523749,-46.737662,estacao,trem,imperatriz leopoldina,False,False
+18965,Pirituba,,-23.488464,-46.726058,estacao,trem,pirituba,False,False
+18966,Pinheiros,,-23.566631,-46.703082,estacao,trem,pinheiros,False,False
+18967,Cidade Universitária,,-23.55757,-46.712434,estacao,trem,cidade universitaria,False,False
+18968,Hebraica - Rebouças,,-23.573822,-46.698634,estacao,trem,hebraica - reboucas,False,False
+18969,Domingos De Moraes,,-23.518787,-46.721665,estacao,trem,domingos de moraes,False,False
+18971,Francisco Morato,,-23.284893,-46.742046,estacao,trem,francisco morato,False,False
+18972,Botujuru,,-23.23541,-46.767932,estacao,trem,botujuru,False,False
+18973,Campo Limpo Paulista,,-23.207264,-46.784873,estacao,trem,campo limpo paulista,False,False
+18974,Várzea Paulista,,-23.208824,-46.829012,estacao,trem,varzea paulista,False,False
+18975,Jundiai,,-23.195643,-46.8719,estacao,trem,jundiai,False,False
+18976,Itaquaquecetuba,,-23.48577,-46.348456,estacao,trem,itaquaquecetuba,False,False
+18978,Jundiapeba,,-23.542687,-46.256308,estacao,trem,jundiapeba,False,False
+18979,Brás Cubas,,-23.536255,-46.225325,estacao,trem,bras cubas,False,False
+18980,Mogi Das Cruzes,,-23.521185,-46.197135,estacao,trem,mogi das cruzes,False,False
+18981,Estudantes,,-23.515696,-46.18493,estacao,trem,estudantes,False,False
+18984,Ana Rosa,,-23.581388,-46.638455,estacao,metro,ana rosa,False,False
+18985,Palmeiras - Barra Funda,,-23.525592,-46.666651,estacao,trem,palmeiras - barra funda,False,False
+18986,Palmeiras - Barra Funda,,-23.525703,-46.666803,estacao,metro,palmeiras - barra funda,False,False
+18987,Brás,,-23.545461,-46.616228,estacao,trem,bras,False,False
+18989,Paraíso,,-23.5753,-46.6408,estacao,metro,paraiso,False,False
+19000,Sé,,-23.550611,-46.633505,estacao,metro,se,False,False
+19040,Largo Treze,,-23.654465,-46.710305,estacao,metro,largo treze,False,False
+19041,Santo Amaro,,-23.655575,-46.721095,estacao,metro,santo amaro,False,False
+19042,Giovanni Gronchi,,-23.643975,-46.734112,estacao,metro,giovanni gronchi,False,False
+19043,Vila Das Belezas,,-23.640331,-46.745882,estacao,metro,vila das belezas,False,False
+19044,Campo Limpo,,-23.648987,-46.758878,estacao,metro,campo limpo,False,False
+19045,Capão Redondo,,-23.659955,-46.768691,estacao,metro,capao redondo,False,False
+910777,Luz,,-23.535297,-46.634703,estacao,trem,luz,False,False
+1010053,Brás,,-23.545582,-46.616314,estacao,trem,bras,False,False
+1010054,Brás,,-23.547751,-46.616127,estacao,metro,bras,False,False
+1211339,Butantã,,-23.571874,-46.708048,estacao,metro,butanta,False,False
+1211401,São Paulo - Morumbi,,-23.586131,-46.72346,estacao,metro,sao paulo - morumbi,False,False
+1814711,Eng. Goulart,,-23.498099,-46.51992,estacao,trem,eng. goulart,False,False
+1814712,Guarulhos Cecap,,-23.44808,-46.493539,estacao,trem,guarulhos cecap,False,False
+1814713,Aeroporto Guarulhos,,-23.433667,-46.493732,estacao,trem,aeroporto guarulhos,False,False
+2314493,Autódromo,,-23.706148,-46.688358,estacao,trem,autodromo,False,False
+2314514,Primavera-interlagos,,-23.722893,-46.691773,estacao,trem,primavera-interlagos,False,False
+2600672,Paulista,,-23.555071,-46.662131,estacao,metro,paulista,False,False
+2705944,Santos-imigrantes,,-23.595941,-46.62071,estacao,metro,santos-imigrantes,False,False
+2815191,USP Leste,,-23.485691,-46.503078,estacao,trem,usp leste,False,False
+3014630,Grajaú,,-23.736283,-46.697068,estacao,trem,grajau,False,False
+3305749,Alto Do Ipiranga,,-23.60213,-46.612593,estacao,metro,alto do ipiranga,False,False
+3305845,Sacomã,,-23.601192,-46.601963,estacao,metro,sacoma,False,False
+3305856,Tamanduateí,,-23.593116,-46.589667,estacao,metro,tamanduatei,False,False
+3407190,Campo Belo,,-23.618357,-46.682062,estacao,metro,campo belo,False,False
+3515230,Jardim Romano,,-23.485148,-46.386211,estacao,trem,jardim romano,False,False
+3515265,Aracaré,,-23.500329,-46.339044,estacao,trem,aracare,False,False
+3515266,Calmon Viana,,-23.525202,-46.333504,estacao,trem,calmon viana,False,False
+4011343,Presidente Altino,,-23.530253,-46.760683,estacao,trem,presidente altino,False,False
+4114459,Vila Aurora,,-23.437612,-46.747275,estacao,trem,vila aurora,False,False
+4406630,Higienópolis-mackenzie,,-23.549031,-46.652303,estacao,metro,higienopolis-mackenzie,False,False
+4406631,Oscar Freire,,-23.560414,-46.671819,estacao,metro,oscar freire,False,False
+5306691,Eucaliptos,,-23.60984,-46.668649,estacao,metro,eucaliptos,False,False
+5306694,Moema,,-23.603386,-46.661974,estacao,metro,moema,False,False
+5306695,Aacd - Servidor,,-23.597819,-46.652545,estacao,metro,aacd - servidor,False,False
+6311285,Faria Lima,,-23.567434,-46.693258,estacao,metro,faria lima,False,False
+6311287,Pinheiros Metrô,,-23.56725,-46.701922,estacao,metro,pinheiros metro,False,False
+6311368,Fradique Coutinho,,-23.566103,-46.684273,estacao,metro,fradique coutinho,False,False
+6714561,República,,-23.544038,-46.642729,estacao,metro,republica,False,False
+7206877,Adolfo Pinheiro,,-23.650083,-46.704237,estacao,metro,adolfo pinheiro,False,False
+7206943,Alto Da Boa Vista,,-23.641632,-46.699465,estacao,metro,alto da boa vista,False,False
+7206944,Borba Gato,,-23.633334,-46.693018,estacao,metro,borba gato,False,False
+7206945,Brooklin,,-23.626914,-46.688171,estacao,metro,brooklin,False,False
+7405493,Oratorio,,-23.582144,-46.561877,estacao,metro,oratorio,False,False
+7405516,São Lucas,,-23.589,-46.544597,estacao,metro,sao lucas,False,False
+7405517,Camilo Haddad,,-23.59548,-46.537591,estacao,metro,camilo haddad,False,False
+7405518,Vila Tolstói,,-23.600932,-46.527049,estacao,metro,vila tolstoi,False,False
+7612124,São Miguel Paulista,,-23.490494,-46.443699,estacao,trem,sao miguel paulista,False,False
+7805208,Vila União,,-23.60294,-46.515768,estacao,metro,vila uniao,False,False
+7805213,Jardim Planalto,,-23.606055,-46.507963,estacao,metro,jardim planalto,False,False
+8010123,Luz,,-23.536598,-46.634502,estacao,metro,luz,False,False
+8210163,Tatuapé,,-23.5401,-46.5765,estacao,trem,tatuape,False,False
+8210164,Tatuapé,,-23.540189,-46.576374,estacao,trem,tatuape,False,False
+8615209,Jardim Helena - Vila Mara,,-23.492765,-46.420369,estacao,trem,jardim helena - vila mara,False,False
+9206443,Chácara Klabin,,-23.59299,-46.630999,estacao,metro,chacara klabin,False,False
+9206548,Hospital São Paulo,,-23.598381,-46.645612,estacao,metro,hospital sao paulo,False,False
+9206549,Santa Cruz,,-23.598445,-46.636618,estacao,metro,santa cruz,False,False
+9206550,Chácara Klabin,,-23.5926,-46.6307,estacao,metro,chacara klabin,False,False
+9505541,Vila Prudente,,-23.584447,-46.581943,estacao,metro,vila prudente,False,False
+9505577,Vila Prudente (monotrilho),,-23.58462,-46.583322,estacao,metro,vila prudente (monotrilho),False,False
+706325,Parada 14 Bis B/C,"Viad. Dr. Plínio De Queiroz, 901",-23.555934,-46.650112,ponto,onibus,parada 14 bis b/c,False,False
+810534,"Av. Ariston De Azevedo, 75",,-23.528179,-46.60191,ponto,onibus,"av. ariston de azevedo, 75",False,False
+810588,"Pça. Gen. Humberto Souza Mello, 893",,-23.530317,-46.603074,ponto,onibus,"pca. gen. humberto souza mello, 893",False,False
+810602,"R. Sta. Rita, 56",Ref.: R. Bresser / R. João Boemer,-23.53337,-46.612293,ponto,onibus,"r. sta. rita, 56",False,False
+910776,"Av. Do Estado, 5854",Ref.: Rua Dona Ana Néri,-23.558955,-46.615202,ponto,onibus,"av. do estado, 5854",False,False
+1010082,"R. Da Figueira, 249",,-23.547134,-46.62647,ponto,onibus,"r. da figueira, 249",False,False
+1010092,Parada Caetano Pinto,"Av. Rangel Pestana, 1249 Ref.: Rua Caetano Pinto/rua Prof. Batista De Andrade",-23.546153,-46.622181,ponto,onibus,parada caetano pinto,False,False
+1010093,Parada Piratininga,"Av. Rangel Pestana, 1479 Ref.: Rua Monsenhor Andrade",-23.545094,-46.620064,ponto,onibus,parada piratininga,False,False
+1010099,"R. Xavantes, 612",Ref.: Rua Joli,-23.535453,-46.613683,ponto,onibus,"r. xavantes, 612",False,False
+1410037,"Av. Do Estado, 5533",,-23.558134,-46.615861,ponto,onibus,"av. do estado, 5533",False,False
+1903430,"Estr. De Itapecerica, 5859",Ref.: Rua Bracará,-23.665944,-46.783071,ponto,onibus,"estr. de itapecerica, 5859",False,False
+2702694,Yoshio Takata,"Av. Miguel Stefano, 2430 Ref.: R Shermogenes",-23.63444,-46.627481,ponto,onibus,yoshio takata,False,False
+2705927,"Av. Ricardo Jafet, 3045",Ref.: R Prof Guaraciba M Trindade,-23.602999,-46.625154,ponto,onibus,"av. ricardo jafet, 3045",False,False
+3305545,"Av. Ricardo Jafet, 745",Ref.: R Sao Silvino,-23.583629,-46.61616,ponto,onibus,"av. ricardo jafet, 745",False,False
+3305889,Pista Local,"Av. D. Pedro I - Pista Local, 819",-23.572626,-46.610749,ponto,onibus,pista local,False,False
+3406907,J.k.  B/C,Av. Sto. Amaro Ref.: Av. Pres. Juscelino Kubitschek,-23.585354,-46.670722,ponto,onibus,j.k. b/c,False,False
+3702644,"Av. Eng. Armando De Arruda Pereira, 457",,-23.633137,-46.644707,ponto,onibus,"av. eng. armando de arruda pereira, 457",False,False
+3702645,"Av. Eng. Armando De Arruda Pereira, 506",Ref.: Av Drluiz Da Rocha Miranda,-23.633337,-46.644309,ponto,onibus,"av. eng. armando de arruda pereira, 506",False,False
+3702711,"Av. Eng. Armando De Arruda Pereira, 1326",Ref.: Av Galvaldomiro De Lima,-23.639177,-46.641389,ponto,onibus,"av. eng. armando de arruda pereira, 1326",False,False
+3702714,"Av. Eng. Armando De Arruda Pereira, 1577",Ref.: R Mucurui,-23.64071,-46.641256,ponto,onibus,"av. eng. armando de arruda pereira, 1577",False,False
+3702715,"Av. Eng. Armando De Arruda Pereira, 1532",Ref.: Rua Farjalla Koraicho,-23.641095,-46.641451,ponto,onibus,"av. eng. armando de arruda pereira, 1532",False,False
+3702746,"Av. Eng. Armando De Arruda Pereira, 1767",Ref.: Rua Antônio André De Sá Filho,-23.643305,-46.641191,ponto,onibus,"av. eng. armando de arruda pereira, 1767",False,False
+3702748,"Av. Eng. Armando De Arruda Pereira, 1897",Ref.: Rua Nelson Fernandes - Metrô Jabaquara,-23.646281,-46.640489,ponto,onibus,"av. eng. armando de arruda pereira, 1897",False,False
+3702773,"Av. Eng. Armando De Arruda Pereira, 2485",Ref.: R Jose De Alcantara,-23.64969,-46.640299,ponto,onibus,"av. eng. armando de arruda pereira, 2485",False,False
+3702829,Metrô Conceição,"Metrô Conceição, 996",-23.635219,-46.641534,ponto,onibus,metro conceicao,False,False
+3703065,Parada 1 - Guatapará,"Av. Eng. Armando De Arruda Pereira, 863 Ref.: Parada Rua Guatapará - Ponto 01",-23.635477,-46.641125,ponto,onibus,parada 1 - guatapara,False,False
+3703080,"Av. Eng. Armando De Arruda Pereira, 2654",Ref.: Rua Oiteiro,-23.649865,-46.640653,ponto,onibus,"av. eng. armando de arruda pereira, 2654",False,False
+3703092,Parada 1,"Av. Eng. Armando De Arruda Pereira, 1700 Ref.: Metrô Jabaquara - Ponto 1 - C/B",-23.646395,-46.640785,ponto,onibus,parada 1,False,False
+4910053,"Av. Da Liberdade, 533",,-23.557288,-46.636446,ponto,onibus,"av. da liberdade, 533",False,False
+6714579,"Viad. Nove De Julho, 160",,-23.548922,-46.642361,ponto,onibus,"viad. nove de julho, 160",False,False
+6714586,Av. S. Luís,Ref.: Praça D. José Gaspar / Biblioteca Mario De Andrade,-23.546957,-46.642793,ponto,onibus,av. s. luis,False,False
+6714596,"R. Maria Paula, 53",Ref.: Rua Francisca Miquelina,-23.552122,-46.638994,ponto,onibus,"r. maria paula, 53",False,False
+6714631,Ponto Móvel,Term. Bandeira Ref.: Plataforma 7,-23.549663,-46.639013,ponto,onibus,ponto movel,False,False
+7110436,"R. Duarte De Azevedo, 338",,-23.50099,-46.622457,ponto,onibus,"r. duarte de azevedo, 338",False,False
+7113134,"Av. Cruzeiro Do Sul, 2867",Ref.: R. Alfredo Guedes,-23.505862,-46.625063,ponto,onibus,"av. cruzeiro do sul, 2867",False,False
+7113155,Parada 2,"Av. Cruzeiro Do Sul, 3079 Ref.: R. Leite De Morais / R. Darzan",-23.503382,-46.624931,ponto,onibus,parada 2,False,False
+7113167,"R. Dr. Zuquim, 1186",Ref.: Rua Bocajá,-23.494672,-46.622599,ponto,onibus,"r. dr. zuquim, 1186",False,False
+7206931,"Plat. Lat. Terminal Joao Dias, 3578",Ref.: Rua Vitalina Grassman,-23.64417,-46.733738,ponto,onibus,"plat. lat. terminal joao dias, 3578",False,False
+7206937,Parada 2 - Sabesp (B/C),"Av. Adolfo Pinheiro, 2223 Ref.: Rua Américo Brasiliense/rua Da Paz",-23.634996,-46.693447,ponto,onibus,parada 2 - sabesp (b/c),False,False
+7905780,"Av. Jabaquara, 79",Ref.: Rua Caramuru,-23.604867,-46.636746,ponto,onibus,"av. jabaquara, 79",False,False
+8000224,"Av. Mercúrio, 180",Ref.: R Polignano A. Mare,-23.54332,-46.626988,ponto,onibus,"av. mercurio, 180",False,False
+8010019,Parada 3 - Senador Feijó,"Pça. Da Se, 184 Ref.: R Senador Feijo",-23.550726,-46.634521,ponto,onibus,parada 3 - senador feijo,False,False
+8010157,Sé / Bombeiros,R. Anita Garibaldi Ref.: Próximo A Rua Tabatinguera,-23.551825,-46.632551,ponto,onibus,se / bombeiros,False,False
+8010197,Transporte Coletivo Privado,"R. Anita Garibaldi, 25 Ref.: Rua Tabatinguera",-23.551981,-46.632618,ponto,onibus,transporte coletivo privado,False,False
+8010212,"Av. Sen. Queiros, 595",Ref.: Rua Barão De Duprat,-23.539967,-46.630569,ponto,onibus,"av. sen. queiros, 595",False,False
+8312662,"R. Maria Amalia Lopes De Azevedo, 3633",Ref.: R Japaratinga,-23.456261,-46.592077,ponto,onibus,"r. maria amalia lopes de azevedo, 3633",False,False
+8313434,"Av. Antonelo Da Messina, 200",Ref.: Rua Benedito Henrique,-23.454905,-46.589662,ponto,onibus,"av. antonelo da messina, 200",False,False
+8313537,"Av. Antonelo Da Messina, 50",Ref.: R. Maria Amalia Lopes De Azevedo,-23.455934,-46.590186,ponto,onibus,"av. antonelo da messina, 50",False,False
+8313574,"R. Pres. Bartolome Mitre, 40",,-23.438901,-46.579988,ponto,onibus,"r. pres. bartolome mitre, 40",False,False
+8313575,"R. Pres. Bartolome Mitre, 310",Ref.: Rua Francisco Bagatti,-23.438329,-46.579707,ponto,onibus,"r. pres. bartolome mitre, 310",False,False
+8313576,"R. Pres. Bartolome Mitre, 310",,-23.438442,-46.579743,ponto,onibus,"r. pres. bartolome mitre, 310",False,False
+8313592,"R. Manuel Vieira Da Luz, 430",Ref.: Rua Marquês De São Vicente/rua Flôr De Lotus,-23.449204,-46.583557,ponto,onibus,"r. manuel vieira da luz, 430",False,False
+8313593,"R. Manuel Vieira Da Luz, 435",Ref.: Rua Marquês De São Vicente/rua Flôr De Lotus,-23.449031,-46.583582,ponto,onibus,"r. manuel vieira da luz, 435",False,False
+8313595,"R. Manuel Vieira Da Luz, 543",Ref.: Estrada De Furnas,-23.44634,-46.581384,ponto,onibus,"r. manuel vieira da luz, 543",False,False
+8313597,"R. Manuel Vieira Da Luz, 5",Ref.: Rua Manoel Pereira,-23.445578,-46.579378,ponto,onibus,"r. manuel vieira da luz, 5",False,False
+8313598,"R. Manuel Vieira Da Luz, 6",Ref.: Rua Manoel Pereira,-23.445629,-46.579297,ponto,onibus,"r. manuel vieira da luz, 6",False,False
+8313599,"R. Dos Pinheiros (jaçanã), 37",Ref.: Rua Ozilas,-23.443106,-46.577008,ponto,onibus,"r. dos pinheiros (jacana), 37",False,False
+8313600,R. Dos Pinheiros (jaçanã),Ref.: Oposto A Rua Ozilas/igreija Católica,-23.443184,-46.576985,ponto,onibus,r. dos pinheiros (jacana),False,False
+8313601,"R. Dos Pinheiros (jaçanã), 87",Ref.: Rua Esperança,-23.441401,-46.576249,ponto,onibus,"r. dos pinheiros (jacana), 87",False,False
+8313602,"R. Dos Pinheiros (jaçanã), 88",Ref.: Rua Esperança,-23.441119,-46.575969,ponto,onibus,"r. dos pinheiros (jacana), 88",False,False
+8313603,"R. Dos Pinheiros (jaçanã), 140",Ref.: Rua Pantanal/padaria Pinheiros,-23.440005,-46.574628,ponto,onibus,"r. dos pinheiros (jacana), 140",False,False
+8313604,"R. Dos Pinheiros (jaçanã), 155",Ref.: Rua Pantanal,-23.44003,-46.57477,ponto,onibus,"r. dos pinheiros (jacana), 155",False,False
+8313606,"R. Manuel Vieira Da Luz, 532",Ref.: Estrada De Furnas,-23.446806,-46.581426,ponto,onibus,"r. manuel vieira da luz, 532",False,False
+8313610,"Av. Antonelo Da Messina, 650",Ref.: Rua David Alan,-23.4512,-46.588749,ponto,onibus,"av. antonelo da messina, 650",False,False
+8412537,"Av. Cel. Sezefredo Fagundes, 535",Ref.: Rua Francisco Da Lira / Rua Teodoro Horst,-23.473051,-46.607708,ponto,onibus,"av. cel. sezefredo fagundes, 535",False,False
+9110540,"Av. Guilherme Cotching, 434",Ref.: Rua Antônio Fonseca,-23.524344,-46.594217,ponto,onibus,"av. guilherme cotching, 434",False,False
+9205546,"Av. Ricardo Jafet, 690",,-23.583199,-46.615744,ponto,onibus,"av. ricardo jafet, 690",False,False
+9206264,"R. Vergueiro, 1900",Ref.: R. Eça De Queiroz / Lgo. Da. Ana Rosa,-23.579145,-46.639947,ponto,onibus,"r. vergueiro, 1900",False,False
+9206525,"R. Vergueiro, 2740",Ref.: Praça Teodoro De Carvalho / R. Domingos De Morais,-23.58552,-46.636222,ponto,onibus,"r. vergueiro, 2740",False,False
+9412333,"R. Eurico Sodre, 45",Ref.: R Francisco Medeiros Jordao,-23.494605,-46.587195,ponto,onibus,"r. eurico sodre, 45",False,False
+9412667,R. Francisco Ferreira De Carvalho,Ref.: Rua Ten José Antunes,-23.478499,-46.569911,ponto,onibus,r. francisco ferreira de carvalho,False,False
+9412669,"Av. Roland Garros, 1667",,-23.476387,-46.572278,ponto,onibus,"av. roland garros, 1667",False,False
+9412676,"Av. Roland Garros, 506",Ref.: Rua Antônio Palmieri,-23.481536,-46.582253,ponto,onibus,"av. roland garros, 506",False,False
+9412686,"Av. Roland Garros, 1131",Ref.: Via De Pedestre Música Da Bruma,-23.478407,-46.576872,ponto,onibus,"av. roland garros, 1131",False,False
+9412695,"Av. Roland Garros, 501",,-23.481661,-46.582491,ponto,onibus,"av. roland garros, 501",False,False
+9902355,"Av. Assembleia, 298",Ref.: R Vale De Amoreira,-23.678551,-46.630281,ponto,onibus,"av. assembleia, 298",False,False
+9902378,"Av. Eng. Armando De Arruda Pereira, 7027",Ref.: R. Maria Luísa Do Espírito Santo,-23.675611,-46.629606,ponto,onibus,"av. eng. armando de arruda pereira, 7027",False,False
+70016561,Getúlio Vargas B/C,"Av. Nove De Julho, 2023 Ref.: R Doutor Plinio Barreto/ R Professor Picarolo",-23.558836,-46.653843,ponto,onibus,getulio vargas b/c,False,False
+80014301,Igreja Santa Rita,"R. Sta. Rita, 790 Ref.: R Rodovalho Da Fonseca/ R Siqueira Afonso",-23.52833,-46.607114,ponto,onibus,igreja santa rita,False,False
+80014369,"R. Catumbi, 774",Ref.: R Jequitinhonha/ Tr Cavalheiro,-23.531417,-46.601783,ponto,onibus,"r. catumbi, 774",False,False
+80014370,"R. Jequitinhonha, 204",Ref.: R Manuel Ramos Paiva/ Av Guilherme Cotching,-23.530664,-46.599974,ponto,onibus,"r. jequitinhonha, 204",False,False
+80014371,R. Juvenal Gomes Coimbra,Ref.: R Manuel Ramos Paiva/ R Manuel Ramos Paiva,-23.528706,-46.599188,ponto,onibus,r. juvenal gomes coimbra,False,False
+80014373,"R. Cachoeira, 715",Ref.: R Santa Clara/ R Fernao De Magalhaes,-23.533822,-46.605606,ponto,onibus,"r. cachoeira, 715",False,False
+80014374,"R. Cachoeira, 1182",Ref.: R Santa Rita/ R Sousa Caldas,-23.530943,-46.609163,ponto,onibus,"r. cachoeira, 1182",False,False
+80014375,"R. Sta. Rita, 422",Ref.: R Cachoeira/ R Rio Bonito,-23.530851,-46.609729,ponto,onibus,"r. sta. rita, 422",False,False
+80014376,Pedroso Da Silveira,"R. Sta. Rita, 590 Ref.: R Godoi Preto/ Av Pedroso Da Silveira",-23.529612,-46.608453,ponto,onibus,pedroso da silveira,False,False
+80014378,"R. Paulo Andrighetti, 242",Ref.: R Santa Rita/ R Joao Singilo,-23.527851,-46.604771,ponto,onibus,"r. paulo andrighetti, 242",False,False
+80014380,"R. Marcos Arruda, 689",Ref.: Vel Zelinda/ R Jequitinhonha,-23.532233,-46.602827,ponto,onibus,"r. marcos arruda, 689",False,False
+80014381,"R. Marcos Arruda, 475",Ref.: Tr Mata De Cajueiros/ R Cachoeira,-23.534075,-46.602634,ponto,onibus,"r. marcos arruda, 475",False,False
+90007106,"R. S. Caetano, 666",Ref.: R Economizadora/ R Pedro Alvares Cabral,-23.535528,-46.626568,ponto,onibus,"r. s. caetano, 666",False,False
+90008849,"R. Da Cantareira, 1351",Ref.: R Jorge Miranda/ R Joao Teodoro,-23.533158,-46.626407,ponto,onibus,"r. da cantareira, 1351",False,False
+100014307,"R. Silva Teles, 281",Ref.: R Mendes Junior/ R Mendes Goncalves,-23.534152,-46.61467,ponto,onibus,"r. silva teles, 281",False,False
+100014308,"R. Silva Teles, 99",Ref.: R Joao Teodoro/ R Casimiro De Abreu,-23.535448,-46.615946,ponto,onibus,"r. silva teles, 99",False,False
+100014309,"R. João Teodoro, 1331",Ref.: R Barao De Ladario/ R Rodrigues Dos Santos,-23.535266,-46.619767,ponto,onibus,"r. joao teodoro, 1331",False,False
+100014321,"Lgo. Da Concordia, 125",Ref.: R Da Juta/ Vdto Gasometro-sentido B/C.,-23.542019,-46.617358,ponto,onibus,"lgo. da concordia, 125",False,False
+100014331,"R. Oriente, 760",Ref.: R Casimiro De Abreu/ R Xavantes,-23.537765,-46.614604,ponto,onibus,"r. oriente, 760",False,False
+100014332,"R. Oriente, 556",Ref.: R Miller/ R Maria Marcolina,-23.537898,-46.616724,ponto,onibus,"r. oriente, 556",False,False
+100014334,"R. Oriente, 156",Ref.: R Rodrigues Dos Santos/ R Monsenhor Andrade,-23.538065,-46.620639,ponto,onibus,"r. oriente, 156",False,False
+100014335,"R. Mons. Andrade, 871",Ref.: R Oriente/ R Henrique Dias,-23.537737,-46.62223,ponto,onibus,"r. mons. andrade, 871",False,False
+100014347,"Lgo. Da Concordia, 120",Ref.: R Ministro Firmino Whitaker/ Av Rangel Pestana,-23.541504,-46.616459,ponto,onibus,"lgo. da concordia, 120",False,False
+100014349,Lgo. Da Concordia,Ref.: Rua Barão De Ladário / Rua Miler,-23.541453,-46.616813,ponto,onibus,lgo. da concordia,False,False
+100014350,"R. Br. De Ladário, 485",Ref.: R Henrique Dias/ R Julio Ribeiro,-23.536922,-46.619017,ponto,onibus,"r. br. de ladario, 485",False,False
+100014351,"R. Br. De Ladário, 195",Ref.: R Conselheiro Belisario/ R Da Juta,-23.540448,-46.618431,ponto,onibus,"r. br. de ladario, 195",False,False
+100014352,"R. Miller, 368",Ref.: Tr Abreu Junior/ R Oriente,-23.538282,-46.617593,ponto,onibus,"r. miller, 368",False,False
+100014353,"R. Miller, 584",Ref.: R Julio Ribeiro/ R Joao Teodoro,-23.536283,-46.617722,ponto,onibus,"r. miller, 584",False,False
+100014543,Jairo Góes,"R. Do Gasômetro, 338 Ref.: R Da Alfandega/ R Vasco Da Gama",-23.544371,-46.623046,ponto,onibus,jairo goes,False,False
+100017111,"R. S. Caetano, 812",Ref.: R Joao Jacinto/ R Monsenhor Andrade,-23.536032,-46.623686,ponto,onibus,"r. s. caetano, 812",False,False
+100017112,"R. João Teodoro, 855",Ref.: R Caninde/ R Carnot,-23.534556,-46.624083,ponto,onibus,"r. joao teodoro, 855",False,False
+140014123,"Av. Do Estado, 5316",Ref.: R Luis Gama/ R Alexandre Levi,-23.557078,-46.620702,ponto,onibus,"av. do estado, 5316",False,False
+140014184,"Av. Do Estado, 5588",Ref.: R Dona Ana Neri/ R Barao De Jaguara,-23.558441,-46.616362,ponto,onibus,"av. do estado, 5588",False,False
+140014278,"Av. Do Estado, 6025",Ref.: R Serra De Paracaina/ Praca Alberto Lion,-23.562161,-46.611894,ponto,onibus,"av. do estado, 6025",False,False
+140014279,"Av. Do Estado, 5785",Ref.: R Serra De Paracaina/ R Conselheiro Joao Alfredo,-23.559911,-46.613324,ponto,onibus,"av. do estado, 5785",False,False
+140014281,"Av. Do Estado, 5143",Ref.: R Coronel Cintra/ R Oscar Horta,-23.556751,-46.620099,ponto,onibus,"av. do estado, 5143",False,False
+140014282,"Av. Do Estado, 4835",Ref.: R Wandenkolk/ R Luis Gama,-23.555867,-46.622535,ponto,onibus,"av. do estado, 4835",False,False
+140014283,"Av. Do Estado, 4755",Ref.: R Wandenkolk/ R Luis Gama,-23.555249,-46.623547,ponto,onibus,"av. do estado, 4755",False,False
+140014284,"Av. Do Estado, 4505",Ref.: R Wandenkolk/ R Da Mooca,-23.553921,-46.624881,ponto,onibus,"av. do estado, 4505",False,False
+140014292,"Av. Do Estado, 5848",Ref.: R Serra De Paracaina/ R Dona Ana Neri,-23.560636,-46.6134,ponto,onibus,"av. do estado, 5848",False,False
+140014354,Av. D. Pedro I - Pista Local,Ref.: R Alexandrino Da Silveira Bueno/ R Ibiruba,-23.564539,-46.611941,ponto,onibus,av. d. pedro i - pista local,False,False
+140015933,"Av. Do Estado, 4502",Ref.: R Antonio De Sa/ R Doutor Pedro Severiano,-23.554495,-46.625046,ponto,onibus,"av. do estado, 4502",False,False
+140015934,"Av. Do Estado, 5018",Ref.: R Orlando Teixeira/ R Leopoldo Miguez,-23.556178,-46.623038,ponto,onibus,"av. do estado, 5018",False,False
+140016380,"Av. D. Pedro I - Pista Local, 123",Ref.: R Ibiruba/ R Almirante Pestana,-23.565161,-46.611374,ponto,onibus,"av. d. pedro i - pista local, 123",False,False
+140016381,"Av. D. Pedro I - Pista Local, 210",Ref.: R Alexandrino Da Silveira Bueno/ R Independencia,-23.567377,-46.611695,ponto,onibus,"av. d. pedro i - pista local, 210",False,False
+150015738,Morumbi B/C 1,"Av. Sto. Amaro, 4611 Ref.: R Joaquim Nabuco/ R Passaros E Flores (B/C - Parada 1)",-23.623506,-46.685293,ponto,onibus,morumbi b/c 1,False,False
+190011829,"Estr. De Itapecerica, 3371",Ref.: R Celso Ferreira Da Silva/ Av Agostinho Rubin,-23.656394,-46.762789,ponto,onibus,"estr. de itapecerica, 3371",False,False
+190011831,Parada Nicolino Barra B/C,"Estr. De Itapecerica, 2655 Ref.: R Barao Nicolino Barra/ R Juan Gil",-23.651334,-46.757487,ponto,onibus,parada nicolino barra b/c,False,False
+190011836,"Estr. De Itapecerica, 4795",Ref.: R Antonio Salvia/ R Leopoldina Da Conceicao Faria,-23.658067,-46.764638,ponto,onibus,"estr. de itapecerica, 4795",False,False
+190013394,"Estr. De Itapecerica, 6814",Ref.: Av Dom Rodrigo Sanches/ R Modelar,-23.662018,-46.779319,ponto,onibus,"estr. de itapecerica, 6814",False,False
+190013460,"Estr. De Itapecerica, 5114",Ref.: R Domingos Peixoto Da Silva/ R Particular Dois,-23.660311,-46.776878,ponto,onibus,"estr. de itapecerica, 5114",False,False
+190013472,"R. João Felício Dos Santos, 8121",Ref.: R Flandres/ R Feitico Da Vila,-23.685779,-46.800861,ponto,onibus,"r. joao felicio dos santos, 8121",False,False
+190013473,"R. Luar Do Sertão, 7",Ref.: R Borlange/ R Madrid,-23.687873,-46.800459,ponto,onibus,"r. luar do sertao, 7",False,False
+190013593,"Estr. De Itapecerica, 4752",Ref.: Av Carlos Lacerda/ R Joao Mancias Alves,-23.659837,-46.773914,ponto,onibus,"estr. de itapecerica, 4752",False,False
+190013612,"Estr. De Itapecerica, 4157",Ref.: Av Carlos Caldeira Filho/ Av Ellis Maas,-23.660661,-46.76831,ponto,onibus,"estr. de itapecerica, 4157",False,False
+190013643,"Estr. De Itapecerica, 5760",Ref.: R Celavisa/ R Folha Cheirosa/caixa Economica/,-23.663942,-46.781962,ponto,onibus,"estr. de itapecerica, 5760",False,False
+190013651,"Estr. De Itapecerica, 8887",Ref.: R Carolina Do Norte/ R Juliano Aguirre,-23.683862,-46.79796,ponto,onibus,"estr. de itapecerica, 8887",False,False
+190013652,"Estr. De Itapecerica, 8393",Ref.: R Da Moenda/ R Acajurana,-23.681311,-46.796438,ponto,onibus,"estr. de itapecerica, 8393",False,False
+190013653,"Estr. De Itapecerica, 8389",Ref.: R Anum Dourado/ Av Andorinha Dos Beirais,-23.678629,-46.794809,ponto,onibus,"estr. de itapecerica, 8389",False,False
+190013654,"Estr. De Itapecerica, 7762",Ref.: Av Andorinha Dos Beirais/ R Tajal,-23.677437,-46.793573,ponto,onibus,"estr. de itapecerica, 7762",False,False
+190013655,"Estr. De Itapecerica, 4753",Ref.: R Professor Gastao Ramos/ R Tajal,-23.676326,-46.790169,ponto,onibus,"estr. de itapecerica, 4753",False,False
+190013656,"Estr. De Itapecerica, 7078",Ref.: R Engenheiro Jose Maria Da Silva Velho/ R Luis De Oliveira,-23.674606,-46.788075,ponto,onibus,"estr. de itapecerica, 7078",False,False
+190013658,"Estr. De Itapecerica, 6555",Ref.: R Silvia De Faria Marcondes/ R Relva Do Olimpo,-23.670801,-46.786368,ponto,onibus,"estr. de itapecerica, 6555",False,False
+190013659,"Estr. De Itapecerica, 6365",Ref.: R Relva Do Olimpo/ R Dos Mutirantes,-23.66934,-46.785149,ponto,onibus,"estr. de itapecerica, 6365",False,False
+220007967,"Av. Eng. Armando De Arruda Pereira, 7026",Ref.: Rua Maria Luisa Do Espirito Santo,-23.675709,-46.629807,ponto,onibus,"av. eng. armando de arruda pereira, 7026",False,False
+220013669,"Av. Garcia De Ávila, 545",Ref.: Rua Baltazar Gomes De Alarcao,-23.681612,-46.636989,ponto,onibus,"av. garcia de avila, 545",False,False
+220013670,"R. Baltazar Gomes De Alarcão, 10","R. Baltazar Gomes De Alarcão, 10 Ref.: Av Garcia De Avila/ R Jose De Afonseca",-23.68162,-46.636753,ponto,onibus,"r. baltazar gomes de alarcao, 10",False,False
+220013677,"Av. Assembleia, 445",Ref.: Rua Monte Castelo,-23.680525,-46.632068,ponto,onibus,"av. assembleia, 445",False,False
+220013679,"Av. Garcia De Ávila, 682",Ref.: Av. Cupecê / R. Adão Aranha,-23.681323,-46.634688,ponto,onibus,"av. garcia de avila, 682",False,False
+220013714,"Av. Eng. Armando De Arruda Pereira, 5571",Ref.: Av Fulfaro/ R Cirenaica -- Sentido Centro/bairro,-23.674019,-46.630951,ponto,onibus,"av. eng. armando de arruda pereira, 5571",False,False
+220013717,"Av. Assembleia, 186",Ref.: Rua Vale De Amoreira,-23.677701,-46.629441,ponto,onibus,"av. assembleia, 186",False,False
+270011126,"Av. Miguel Stefano, 0",Ref.: R Doutor Jose Bento Ferreira/ Av Do Cursino,-23.651003,-46.620728,ponto,onibus,"av. miguel stefano, 0",False,False
+270011128,"Av. Miguel Stefano, 0",Ref.: R Doutor Jose Bento Ferreira/ Av Do Cursino,-23.651098,-46.620907,ponto,onibus,"av. miguel stefano, 0",False,False
+270011129,"Av. Miguel Stefano, 4200",Ref.: R Doutor Jose Bento Ferreira/ Av Do Cursino,-23.649071,-46.622719,ponto,onibus,"av. miguel stefano, 4200",False,False
+270011130,"Av. Miguel Stefano, 4200",Ref.: R Doutor Jose Bento Ferreira/ Av Do Cursino,-23.648903,-46.623047,ponto,onibus,"av. miguel stefano, 4200",False,False
+270011134,"Av. Miguel Stefano, 3687",Ref.: R Doutor Jose Bento Ferreira/ Av Do Cursino,-23.645617,-46.625725,ponto,onibus,"av. miguel stefano, 3687",False,False
+270011135,"Av. Miguel Stefano, 3688",Ref.: R Doutor Jose Bento Ferreira/ Av Do Cursino,-23.645216,-46.626106,ponto,onibus,"av. miguel stefano, 3688",False,False
+270011136,"Av. Miguel Stefano, 3031",Ref.: R Doutor Jose Bento Ferreira/ Av Do Cursino,-23.639639,-46.627399,ponto,onibus,"av. miguel stefano, 3031",False,False
+270011138,"Av. Miguel Stefano, 2710",Ref.: R Ibatiba/ R Doutor Jose Bento Ferreira,-23.63689,-46.627037,ponto,onibus,"av. miguel stefano, 2710",False,False
+270011139,"Av. Miguel Stefano, 2681",Ref.: R Ibatiba/ R Doutor Jose Bento Ferreira,-23.636509,-46.627007,ponto,onibus,"av. miguel stefano, 2681",False,False
+270011140,"Av. Miguel Stefano, 2425",Ref.: R Yoshio Takata/ R Foz Do Jutai,-23.634357,-46.627407,ponto,onibus,"av. miguel stefano, 2425",False,False
+270011141,"Av. Miguel Stefano, 2235",Ref.: R Manuel Pires/ R Augusta Magalhaes,-23.632607,-46.627419,ponto,onibus,"av. miguel stefano, 2235",False,False
+270011142,"Av. Miguel Stefano, 2180",Ref.: R Manuel Pires/ R Cesar Batista,-23.631931,-46.627422,ponto,onibus,"av. miguel stefano, 2180",False,False
+270011143,"Av. Miguel Stefano, 2015",Ref.: R Abeylard Queiros/ R Barreto Muniz,-23.630766,-46.627502,ponto,onibus,"av. miguel stefano, 2015",False,False
+270016954,"Av. Prof. Abraão De Morais, 2173",Ref.: R Francisco Tapajos/ R Elisa Silveira,-23.623564,-46.628091,ponto,onibus,"av. prof. abraao de morais, 2173",False,False
+270016977,"Av. Miguel Stefano, 160",Ref.: R Embaixador Alvaro Lins/ Tro Paulo A Ferreira,-23.627405,-46.628451,ponto,onibus,"av. miguel stefano, 160",False,False
+270016978,"Av. Prof. Abraão De Morais, 1845",Ref.: R Frei Rolim/ R Joao Rugna,-23.621132,-46.627691,ponto,onibus,"av. prof. abraao de morais, 1845",False,False
+270016979,"Av. Prof. Abraão De Morais, 2201",Ref.: R Ribeiro Lacerda/ R Frei Rolim,-23.619505,-46.627671,ponto,onibus,"av. prof. abraao de morais, 2201",False,False
+270016980,"Av. Prof. Abraão De Morais, 2005",Ref.: R. Artur Thire / R. General Chagas Santos,-23.616424,-46.627045,ponto,onibus,"av. prof. abraao de morais, 2005",False,False
+270016981,"Av. Prof. Abraão De Morais, 1165",Ref.: Av Bosque Da Saude,-23.613461,-46.627089,ponto,onibus,"av. prof. abraao de morais, 1165",False,False
+270016982,"Av. Prof. Abraão De Morais, 503",Ref.: Av Itaborai/ R Ibirarema,-23.608951,-46.62772,ponto,onibus,"av. prof. abraao de morais, 503",False,False
+270016983,"Av. Prof. Abraão De Morais, 93",Ref.: Rua Vigario Albernaz,-23.605188,-46.626052,ponto,onibus,"av. prof. abraao de morais, 93",False,False
+270016984,"Av. Ricardo Jafet, 2123",Ref.: R Padre Machado/ R Ouvidor Peleja,-23.602043,-46.62466,ponto,onibus,"av. ricardo jafet, 2123",False,False
+270016985,Av. Ricardo Jafet,Ref.: Vdto Doutor Eduardo Saigh/ R Santa Cruz,-23.599545,-46.623498,ponto,onibus,av. ricardo jafet,False,False
+270016986,"Av. Ricardo Jafet, 1901",Ref.: R Engenheiro Guilherme Winter/ R Santo Eugenio Olivi,-23.595913,-46.621429,ponto,onibus,"av. ricardo jafet, 1901",False,False
+330013742,"Av. Ricardo Jafet, 1051",Ref.: R Da Imprensa/ R Doutor Mario Vicente,-23.586207,-46.618576,ponto,onibus,"av. ricardo jafet, 1051",False,False
+330015947,"Av. Ricardo Jafet, 365",Ref.: R Maranjai/ R Professor Romeu Pelegrini,-23.581289,-46.613643,ponto,onibus,"av. ricardo jafet, 365",False,False
+330016372,"Av. D. Pedro I - Pista Local, 520",Ref.: R Lima Barreto/ R Leandro De Carvalho,-23.57001,-46.611385,ponto,onibus,"av. d. pedro i - pista local, 520",False,False
+330016373,"Av. D. Pedro I - Pista Local, 798",Ref.: R Guedes Nogueira/ R Guaxinduva,-23.572489,-46.611125,ponto,onibus,"av. d. pedro i - pista local, 798",False,False
+330016374,Av. D. Pedro I - Pista Local,Ref.: R Pedro Magalhaes/ R Rosa Ramos Fernandes,-23.575871,-46.610843,ponto,onibus,av. d. pedro i - pista local,False,False
+330016375,"Av. D. Pedro I - Pista Local, 1061",Ref.: R Ouvidor Portugal/ R Jorge Moreira,-23.57522,-46.610495,ponto,onibus,"av. d. pedro i - pista local, 1061",False,False
+330016376,"Av. D. Pedro I - Pista Local, 927",Ref.: R Jorge Moreira/ R General Eugenio De Melo,-23.573671,-46.610659,ponto,onibus,"av. d. pedro i - pista local, 927",False,False
+330016377,"Av. D. Pedro I - Pista Local, 647",Ref.: R Lima Barreto/ R Doutor Ricardo Daunt,-23.571059,-46.61087,ponto,onibus,"av. d. pedro i - pista local, 647",False,False
+330016378,"Av. D. Pedro I - Pista Local, 449",Ref.: R Lima Barreto/ R Coronel Frias,-23.569279,-46.611068,ponto,onibus,"av. d. pedro i - pista local, 449",False,False
+330016433,"Av. Ricardo Jafet, 491",Ref.: R Do Piquete/ R Mont Alverne,-23.583606,-46.615895,ponto,onibus,"av. ricardo jafet, 491",False,False
+330016624,"Av. Ricardo Jafet, 1551",,-23.590685,-46.620053,ponto,onibus,"av. ricardo jafet, 1551",False,False
+330016883,"Av. Ricardo Jafet, 99",Ref.: R Dom Valverde/ R Engenheiro Sampaio Coelho,-23.579562,-46.612196,ponto,onibus,"av. ricardo jafet, 99",False,False
+330016957,"R. Leais Paulistanos, 36",Ref.: Pc Do Monumento/ R Bom Pastor,-23.578737,-46.609,ponto,onibus,"r. leais paulistanos, 36",False,False
+330016958,"Av. Ricardo Jafet, 366",Ref.: R Maranjai/ R Matinada,-23.580848,-46.61376,ponto,onibus,"av. ricardo jafet, 366",False,False
+330016996,"Av. Ricardo Jafet, 1833",Ref.: R Vergueiro,-23.591881,-46.620325,ponto,onibus,"av. ricardo jafet, 1833",False,False
+340015323,São Gabriel B/C,"Av. S. Gabriel, 640 Ref.: R Maestro Elias Lobo/ Av Nove De Julho",-23.577492,-46.671072,ponto,onibus,sao gabriel b/c,False,False
+340015329,Parada 1 - Afonso Braz B/C,"Av. Sto. Amaro, 1009 Ref.: R Arminda/ R Balthazar Da Veiga",-23.592938,-46.672727,ponto,onibus,parada 1 - afonso braz b/c,False,False
+340015746,Vieira De Morais B/C 1,"Av. Sto. Amaro, 3560 Ref.: R Alvaro Luis Roberto De Assuncao/ R Vieira De Moraes (b-c 1)",-23.616147,-46.680106,ponto,onibus,vieira de morais b/c 1,False,False
+340015750,Portugal B/C 1,"Av. Sto. Amaro, 3159 Ref.: R Demostenes/ R Luisiania",-23.611973,-46.677793,ponto,onibus,portugal b/c 1,False,False
+370013664,"Av. Eng. Armando De Arruda Pereira, 2864",Ref.: Rua Doutor Valter Pinto,-23.651533,-46.638912,ponto,onibus,"av. eng. armando de arruda pereira, 2864",False,False
+370013685,"Av. Eng. Armando De Arruda Pereira, 6559",Ref.: R Mossul/ R Antibes,-23.670969,-46.632251,ponto,onibus,"av. eng. armando de arruda pereira, 6559",False,False
+370013686,"Av. Eng. Armando De Arruda Pereira, 5526",Ref.: Rua Mossul,-23.670584,-46.63274,ponto,onibus,"av. eng. armando de arruda pereira, 5526",False,False
+370013687,"Av. Eng. Armando De Arruda Pereira, 5263",Ref.: Est Antiga Do Mar/ R Mossul,-23.668931,-46.634677,ponto,onibus,"av. eng. armando de arruda pereira, 5263",False,False
+370013688,"Av. Eng. Armando De Arruda Pereira, 5271",Ref.: Est Antiga Do Mar,-23.669305,-46.634755,ponto,onibus,"av. eng. armando de arruda pereira, 5271",False,False
+370013689,"Av. Eng. Armando De Arruda Pereira, 4987",Ref.: Rua Jose Vilas Boas / Ceu Caminho Do Mar,-23.667713,-46.636127,ponto,onibus,"av. eng. armando de arruda pereira, 4987",False,False
+370013690,"Av. Eng. Armando De Arruda Pereira, 5008",Ref.: Rua Das Vitaceas,-23.667867,-46.636315,ponto,onibus,"av. eng. armando de arruda pereira, 5008",False,False
+370013691,"Av. Eng. Armando De Arruda Pereira, 4573",Ref.: R Adelaide Augusta Camara/ R Delta,-23.665338,-46.637859,ponto,onibus,"av. eng. armando de arruda pereira, 4573",False,False
+370013692,"Av. Eng. Armando De Arruda Pereira, 4572",Ref.: R Adelaide Augusta Camara/ R Delta,-23.664981,-46.638086,ponto,onibus,"av. eng. armando de arruda pereira, 4572",False,False
+370013693,"Av. Eng. Armando De Arruda Pereira, 4433",Ref.: R Anaconda/ R Filinto Eliseo,-23.663278,-46.637698,ponto,onibus,"av. eng. armando de arruda pereira, 4433",False,False
+370013694,"Av. Eng. Armando De Arruda Pereira, 4186",Ref.: Rua Hildebrando Siqueira,-23.661507,-46.63756,ponto,onibus,"av. eng. armando de arruda pereira, 4186",False,False
+370013695,"Av. Eng. Armando De Arruda Pereira, 4025",Ref.: R Astrolabio/ R Azor Silva,-23.660047,-46.636546,ponto,onibus,"av. eng. armando de arruda pereira, 4025",False,False
+370013696,"Av. Eng. Armando De Arruda Pereira, 3623",Ref.: R Godofredo Braga/ R Tarcilia,-23.656564,-46.636116,ponto,onibus,"av. eng. armando de arruda pereira, 3623",False,False
+370013697,"Av. Eng. Armando De Arruda Pereira, 3100",Ref.: Av Barro Branco,-23.653536,-46.637184,ponto,onibus,"av. eng. armando de arruda pereira, 3100",False,False
+370013703,"Av. Eng. Armando De Arruda Pereira, 3578",Ref.: Rua Luiz Carlos Fachini / Rua Eugenia,-23.656411,-46.636547,ponto,onibus,"av. eng. armando de arruda pereira, 3578",False,False
+370013713,"Av. Eng. Armando De Arruda Pereira, 3876",Ref.: R Fachini/ R Henrique Da Silva Fontes,-23.659001,-46.636316,ponto,onibus,"av. eng. armando de arruda pereira, 3876",False,False
+370013737,"Av. Eng. Armando De Arruda Pereira, 2731",Ref.: Rua Joao Turriano,-23.651266,-46.638906,ponto,onibus,"av. eng. armando de arruda pereira, 2731",False,False
+370013738,"Av. Eng. Armando De Arruda Pereira, 3111",Ref.: Rua Das Perolas,-23.653044,-46.636905,ponto,onibus,"av. eng. armando de arruda pereira, 3111",False,False
+380003684,"Av. Edu Chaves, 1268",Ref.: R Cap. Rubens/ Av Carlos Dos Santos,-23.478266,-46.568324,ponto,onibus,"av. edu chaves, 1268",False,False
+380003685,"Av. Edu Chaves, 999",Ref.: Av Carlos Dos Santos/av Roland Garros/r.dorândia,-23.476124,-46.569502,ponto,onibus,"av. edu chaves, 999",False,False
+440015158,Estados Unidos B/C,"Av. Nove De Julho, 3475 Ref.: R Cravinhos/ R Haiti",-23.570012,-46.661799,ponto,onibus,estados unidos b/c,False,False
+440015162,Jose Maria Lisboa C/B 2,"Av. Nove De Julho, 3120 Ref.: R Jose Maria Lisboa/ Al Lorena",-23.567459,-46.659417,ponto,onibus,jose maria lisboa c/b 2,False,False
+440015164,Guianas B/C,"Av. Nove De Julho, 4277 Ref.: Av Brasil/ R Esperia",-23.574389,-46.667594,ponto,onibus,guianas b/c,False,False
+450011801,Parada Das Belezas B/C,Estr. De Itapecerica Ref.: R Aristodemo Gazzotti/ Av Tomas De Sousa,-23.642592,-46.738745,ponto,onibus,parada das belezas b/c,False,False
+450011846,Parada Aabb B/C,"Estr. De Itapecerica, 1978 Ref.: R Adelino De Magalhaes/ R Emilia Morgado Munhoz Garcia",-23.649323,-46.752213,ponto,onibus,parada aabb b/c,False,False
+450011849,Parada Hospital Campo Limpo B/C,"Estr. De Itapecerica, 1539 Ref.: R Teresa Mouco De Oliveira/ R Amancio Pedro De Oliveira",-23.648242,-46.748656,ponto,onibus,parada hospital campo limpo b/c,False,False
+450011852,Parada Cícero José Saraiva B/C,"Estr. De Itapecerica, 1189 Ref.: R Joao Damasceno/ R Candido Das Neves",-23.645378,-46.746118,ponto,onibus,parada cicero jose saraiva b/c,False,False
+490016575,"Av. Da Liberdade, 472",Ref.: R Jaceguai/ R Americo De Campos,-23.556844,-46.636436,ponto,onibus,"av. da liberdade, 472",False,False
+490016577,"Av. Da Liberdade, 796",Ref.: R Condessa De Sao Joaquim/ R Sao Joaquim,-23.559686,-46.637866,ponto,onibus,"av. da liberdade, 796",False,False
+490016579,"Av. Da Liberdade, 1046",Ref.: R Condessa De Sao Joaquim/ R Sao Joaquim,-23.561833,-46.638754,ponto,onibus,"av. da liberdade, 1046",False,False
+490016580,"Av. Da Liberdade, 1033",Ref.: R Condessa De Sao Joaquim/ R Sao Joaquim,-23.561766,-46.638553,ponto,onibus,"av. da liberdade, 1033",False,False
+490016581,"Av. Da Liberdade, 655",Ref.: R Barao De Iguape/ R Fagundes,-23.558521,-46.637096,ponto,onibus,"av. da liberdade, 655",False,False
+490016690,"R. Vergueiro, 356",Ref.: R Professor Antonio Prudente/ Tr Calado,-23.565048,-46.639509,ponto,onibus,"r. vergueiro, 356",False,False
+490016693,"R. Vergueiro, 790",Ref.: Vdto Beneficencia Portuguesa/ R Doutor Joao Morais,-23.568918,-46.639965,ponto,onibus,"r. vergueiro, 790",False,False
+490016694,"R. Vergueiro, 789",Ref.: Vdto Beneficencia Portuguesa/ R Doutor Joao Morais,-23.568849,-46.63982,ponto,onibus,"r. vergueiro, 789",False,False
+490016695,"R. Vergueiro, 447",Ref.: Rua Castro Alves / Rua Professor Antônio Prudente,-23.566017,-46.6394,ponto,onibus,"r. vergueiro, 447",False,False
+490016696,Centro Cultural Vergueiro,"R. Vergueiro, 1000 Ref.: R Doutor Joao Morais/ R Paraiso -- Centro Cultural",-23.5718,-46.639881,ponto,onibus,centro cultural vergueiro,False,False
+490016698,"R. Vergueiro, 1149",Ref.: R Doutor Joao Morais/ R Paraiso,-23.572223,-46.639792,ponto,onibus,"r. vergueiro, 1149",False,False
+530015342,Fiandeiras B/C1,"Av. Sto. Amaro, 1481 Ref.: R Natividade/ R Das Fiandeiras",-23.597141,-46.673646,ponto,onibus,fiandeiras b/c1,False,False
+530015348,Eucaliptos B/C,"Av. Sto. Amaro, 2283 Ref.: R Doutor Andrade Pertence/ Av Joao Castaldi",-23.604788,-46.675035,ponto,onibus,eucaliptos b/c,False,False
+570014285,"Av. Do Estado, 1949",Ref.: Av Cruzeiro Do Sul/ R Joao Teodoro,-23.532599,-46.625135,ponto,onibus,"av. do estado, 1949",False,False
+570014286,Manuel De Almeida,"Av. Cruzeiro Do Sul, 548 Ref.: R Tapajos/ R Iguacu",-23.527757,-46.625311,ponto,onibus,manuel de almeida,False,False
+570014287,Museu Cmtc,"Av. Cruzeiro Do Sul, 780 Ref.: R Paulino Guimaraes/ R Guapore",-23.524361,-46.625203,ponto,onibus,museu cmtc,False,False
+570014289,"Av. Cruzeiro Do Sul, 835",Ref.: R Paulino Guimaraes/ R Guapore,-23.524321,-46.625566,ponto,onibus,"av. cruzeiro do sul, 835",False,False
+570014290,"Av. Cruzeiro Do Sul, 453",Ref.: R Tapajos/ R Iguacu,-23.527821,-46.625674,ponto,onibus,"av. cruzeiro do sul, 453",False,False
+570014291,"Av. Cruzeiro Do Sul, 145",Ref.: R Tibirica/ Av Do Estado,-23.530766,-46.625816,ponto,onibus,"av. cruzeiro do sul, 145",False,False
+570014305,"R. Silva Teles, 711",Ref.: R Joao Boemer/ R Rio Bonito,-23.531303,-46.611862,ponto,onibus,"r. silva teles, 711",False,False
+570014306,"R. Silva Teles, 497",Ref.: R Bresser/ R Julia Bresser,-23.532725,-46.613323,ponto,onibus,"r. silva teles, 497",False,False
+670009789,Timbiras,"Pça. Da República, 410 Ref.: Av Ipiranga/ R Dos Timbiras",-23.542753,-46.641526,ponto,onibus,timbiras,False,False
+670010078,Vieira De Carvalho,"Pça. Da República, 365 Ref.: Av. Vieira De Carvalho / R. Do Arouche",-23.542872,-46.643455,ponto,onibus,vieira de carvalho,False,False
+670010133,Parada Araujo,Pça. Da República Ref.: Av Ipiranga/ R Araujo,-23.544576,-46.643782,ponto,onibus,parada araujo,False,False
+670012731,Parada 3 - Theatro Municipal,Pça. Ramos De Azevedo Ref.: Vd. Do Chá / Pça. Ramos De Azevedo,-23.54557,-46.638378,ponto,onibus,parada 3 - theatro municipal,False,False
+670012964,"R. Do Seminário, 187",Ref.: R Brigadeiro Tobias/ R Antonio De Godoi,-23.542398,-46.636535,ponto,onibus,"r. do seminario, 187",False,False
+670012980,Pça. Do Correio,Pça. Do Correio Ref.: Vdto Santa Ifigenia,-23.542836,-46.635553,ponto,onibus,pca. do correio,False,False
+670012986,Av. Sen. Queiros,Ref.: R Brigadeiro Tobias/ R Dom Francisco De Sousa,-23.53924,-46.634803,ponto,onibus,av. sen. queiros,False,False
+670012996,"Av. Câsper Líbero, 45",Ref.: R Coronel Batista Da Luz/ R Antonio De Godoi,-23.541189,-46.636676,ponto,onibus,"av. casper libero, 45",False,False
+670016557,Inss B/C,"Av. Nove De Julho, 801 Ref.: Vdto Martinho Prado/ R Major Quedinho",-23.551241,-46.64583,ponto,onibus,inss b/c,False,False
+670016646,Terminal Bandeira,Ref.: R Santo Antonio/ R Santo Amaro,-23.550183,-46.639288,ponto,onibus,terminal bandeira,False,False
+670016648,Terminal Bandeira,Ref.: Vdto Doutor Eusebio Stevaux/ R Santo Antonio,-23.54909,-46.639749,ponto,onibus,terminal bandeira,False,False
+670016651,Terminal Bandeira,Ref.: Vdto Doutor Eusebio Stevaux/ R Santo Antonio,-23.549267,-46.63931,ponto,onibus,terminal bandeira,False,False
+670016652,Terminal Bandeira,Ref.: Vdto Doutor Eusebio Stevaux/ R Santo Antonio,-23.549286,-46.639459,ponto,onibus,terminal bandeira,False,False
+670016653,Terminal Bandeira,Ref.: Vdto Doutor Eusebio Stevaux/ R Santo Antonio,-23.549309,-46.639763,ponto,onibus,terminal bandeira,False,False
+670016667,"R. Sto. Antônio, 324",Ref.: Vdto Jacarei/ Pc Da Bandeira,-23.550239,-46.641555,ponto,onibus,"r. sto. antonio, 324",False,False
+710000567,"R. Mto. João Gomes De Araújo, 138",Ref.: Tr Rozaria Amancio Do Nascimento/ Av Agua Fria,-23.486995,-46.6228,ponto,onibus,"r. mto. joao gomes de araujo, 138",False,False
+710000596,"Av. Nova Cantareira, 1245",Ref.: R Casa Forte/ R Lagoa Verde,-23.484012,-46.614665,ponto,onibus,"av. nova cantareira, 1245",False,False
+710000597,"Av. Nova Cantareira, 1164",Ref.: R Lagoa Verde/ R Casa Forte,-23.484653,-46.615219,ponto,onibus,"av. nova cantareira, 1164",False,False
+710000598,"Av. Nova Cantareira, 726",Ref.: R Dona Gabriela/ R Florineia,-23.486631,-46.618659,ponto,onibus,"av. nova cantareira, 726",False,False
+710000599,"Av. Nova Cantareira, 781",Ref.: R Almirante Noronha/ R Florineia,-23.486512,-46.618056,ponto,onibus,"av. nova cantareira, 781",False,False
+710000600,"Av. Nova Cantareira, 439",Ref.: R Frei Melchior/ R Cristovao Vaz,-23.487004,-46.62055,ponto,onibus,"av. nova cantareira, 439",False,False
+710000601,"Av. Água Fria, 47",Ref.: Rua Jeronima Dias/ R Orlando Sardi,-23.488294,-46.62419,ponto,onibus,"av. agua fria, 47",False,False
+710000602,"R. Perpetuo Júnior, 152",Ref.: R Vitoria Perpetua/ R Joao Pizarro Gabizo,-23.492534,-46.625425,ponto,onibus,"r. perpetuo junior, 152",False,False
+710000603,"R. José Debieux, 123",Ref.: R Lucia Rossi/ Vel Luiz Haro,-23.495908,-46.623904,ponto,onibus,"r. jose debieux, 123",False,False
+710000604,"R. Benvinda Aparecida De Abreu Leme, 193",Ref.: R Sem Nome/ R Conselheiro Saraiva,-23.497389,-46.623259,ponto,onibus,"r. benvinda aparecida de abreu leme, 193",False,False
+710000605,"R. Ezequiel Freire, 743",Ref.: R Conselheiro Saraiva/ R Doutor Olavo Egidio,-23.499659,-46.623519,ponto,onibus,"r. ezequiel freire, 743",False,False
+710000653,"Av. Cruzeiro Do Sul, 2762",Ref.: R Alfredo Guedes/ Av General Ataliba Leonel,-23.506563,-46.624676,ponto,onibus,"av. cruzeiro do sul, 2762",False,False
+710000656,Parada 3,"Av. Cruzeiro Do Sul, 3350 Ref.: R Doutor Gabriel Piza/ R Duarte De Azevedo",-23.501277,-46.624511,ponto,onibus,parada 3,False,False
+710000953,"Av. Cruzeiro Do Sul, 1800",Ref.: R Mal. Odylio Dennys/ Tvp Profa Lindya Clemente,-23.515854,-46.624932,ponto,onibus,"av. cruzeiro do sul, 1800",False,False
+710000954,"Av. Cruzeiro Do Sul, 1801",Ref.: R Mal. Odylio Dennys/ Tvp Profa Lindya Clemente,-23.516007,-46.62536,ponto,onibus,"av. cruzeiro do sul, 1801",False,False
+710000969,"Av. Cruzeiro Do Sul, 2463",Ref.: R Forca Publica/ Av Gen. Ataliba Leonel,-23.509213,-46.625087,ponto,onibus,"av. cruzeiro do sul, 2463",False,False
+710000972,"Av. Cruzeiro Do Sul, 2424",Ref.: R Manoel Dos Santos Netto/ Av Gen. Ataliba Leonel,-23.509648,-46.624735,ponto,onibus,"av. cruzeiro do sul, 2424",False,False
+710000975,"R. Dr. Zuquim, 676",Ref.: R Cnso. Saraiva/ R Olavo Egidio,-23.499438,-46.622249,ponto,onibus,"r. dr. zuquim, 676",False,False
+710000976,"R. Dr. Zuquim, 1020",Ref.: R Sem Nome/ R Sem Nome,-23.496899,-46.621917,ponto,onibus,"r. dr. zuquim, 1020",False,False
+710000977,"R. Dr. Zuquim, 1484",Ref.: R Da. Beatris Correia/ R Lidia Coelho,-23.492605,-46.623777,ponto,onibus,"r. dr. zuquim, 1484",False,False
+710000978,"Av. Nova Cantareira, 74",Ref.: R Dr. Zuquim/ R Ag. Gomes,-23.488393,-46.623592,ponto,onibus,"av. nova cantareira, 74",False,False
+710017208,"Av. Cruzeiro Do Sul, 2092",Ref.: R Gabriel Prestes/ R Cel. Antonio De Carvalho,-23.512707,-46.624814,ponto,onibus,"av. cruzeiro do sul, 2092",False,False
+710017211,"R. Olavo Egídio, 163",Ref.: R Ezequiel Freire/ Av Cruzeiro Do Sul,-23.499846,-46.624085,ponto,onibus,"r. olavo egidio, 163",False,False
+710017212,"Av. Cruzeiro Do Sul, 2195",Ref.: R Sta Eulalia/ R Gabriel Prestes,-23.511995,-46.62519,ponto,onibus,"av. cruzeiro do sul, 2195",False,False
+710017213,"Av. Cruzeiro Do Sul, 1877",Ref.: R Cerqueira Leite/r Pe. Ildefonso,-23.51403,-46.625298,ponto,onibus,"av. cruzeiro do sul, 1877",False,False
+720011687,Parada Conde De Itu B/C,"Av. João Dias, 375 Ref.: R Conde De Itu/ R Doutor Vito Rolim De Freitas",-23.645835,-46.704633,ponto,onibus,parada conde de itu b/c,False,False
+720011698,Parada Oswaldo De Andrade B/C,"Av. João Dias, 1341 Ref.: R Adis Abeba/ R Osvaldo De Andrade",-23.645343,-46.713278,ponto,onibus,parada oswaldo de andrade b/c,False,False
+720011700,Parada José De Sá B/C,"Av. João Dias, 1937 Ref.: R Adrar/ R Major Tarquinio Leite Pereira",-23.644893,-46.719058,ponto,onibus,parada jose de sa b/c,False,False
+720011702,Parada Centro Africana B/C,"Av. João Dias, 2255 Ref.: R Bento Branco De Andrade Filho/ R Padre Ibrahim",-23.644832,-46.722168,ponto,onibus,parada centro africana b/c,False,False
+720011738,"Av. Adolfo Pinheiro, 1500",Ref.: R Marechal Deodoro/ Av Vereador Jose Diniz,-23.640446,-46.697364,ponto,onibus,"av. adolfo pinheiro, 1500",False,False
+720015730,Banespa B/C 1,"Av. Sto. Amaro, 5425 Ref.: Banespa (b-c 1)",-23.630024,-46.68994,ponto,onibus,banespa b/c 1,False,False
+720015734,Parada 2 - Roque Petroni Jr. B/C,"Av. Sto. Amaro, 5041 Ref.: Av Professor Vicente Rao/ R Andrea Paulinetti (B/C - Parada 1)",-23.626917,-46.68774,ponto,onibus,parada 2 - roque petroni jr. b/c,False,False
+790016218,Parada 2 - Metrô São Judas B/C,"Av. Jabaquara, 2371 Ref.: R Panamericana/ R Professor Aprigio Gonzaga",-23.62521,-46.640544,ponto,onibus,parada 2 - metro sao judas b/c,False,False
+790016219,"Av. Jabaquara, 2223",Ref.: R Professor Aprigio Gonzaga/ R Ibituruna,-23.623847,-46.640235,ponto,onibus,"av. jabaquara, 2223",False,False
+790016220,"Av. Jabaquara, 1909",Ref.: R Paracatu/ R Apotribu,-23.621079,-46.639608,ponto,onibus,"av. jabaquara, 1909",False,False
+790016221,"Av. Jabaquara, 1621",Ref.: Rua São Sebastião,-23.618466,-46.639023,ponto,onibus,"av. jabaquara, 1621",False,False
+790016222,"Av. Jabaquara, 1381",Ref.: Tr Ronaldo Ross/ R Vitoriano Pereira,-23.61636,-46.638626,ponto,onibus,"av. jabaquara, 1381",False,False
+790016223,"Av. Jabaquara, 1149",Ref.: Rua Carneiro Da Cunha,-23.614328,-46.638186,ponto,onibus,"av. jabaquara, 1149",False,False
+790016224,"Av. Jabaquara, 657",Ref.: R General Serra Martins/ R Pitangueiras,-23.609882,-46.637745,ponto,onibus,"av. jabaquara, 657",False,False
+790016226,"R. Domingos De Morais, 2800",Ref.: Tr Do Grande Momento/ R Timburiba,-23.600893,-46.636837,ponto,onibus,"r. domingos de morais, 2800",False,False
+790016337,"Av. Jabaquara, 373",Ref.: Al Das Boninas/ R Orissanga,-23.607361,-46.637524,ponto,onibus,"av. jabaquara, 373",False,False
+790016341,"R. Domingos De Morais, 3088",Ref.: R Luis Gois/ Av Doutor Altino Arantes,-23.603619,-46.636857,ponto,onibus,"r. domingos de morais, 3088",False,False
+790016342,"Av. Jabaquara, 290",Ref.: Rua Caramuru,-23.605971,-46.637377,ponto,onibus,"av. jabaquara, 290",False,False
+790016343,"Av. Jabaquara, 244",Ref.: R Caramuru/ Al Das Boninas,-23.606269,-46.637465,ponto,onibus,"av. jabaquara, 244",False,False
+790016344,"Av. Jabaquara, 494",Ref.: R Das Rosas/ Al Das Boninas,-23.608414,-46.637983,ponto,onibus,"av. jabaquara, 494",False,False
+790016345,"Av. Jabaquara, 876",Ref.: Av Bosque Da Saude/ R Pirituba,-23.611856,-46.638009,ponto,onibus,"av. jabaquara, 876",False,False
+790016346,"Av. Jabaquara, 1170",Ref.: Al Dos Guatas/ Av Afonso Mariano Fagundes,-23.614362,-46.638366,ponto,onibus,"av. jabaquara, 1170",False,False
+790016347,"Av. Jabaquara, 1452",Ref.: Tr Ronaldo Ross/ R Pereira Estefano,-23.61693,-46.638931,ponto,onibus,"av. jabaquara, 1452",False,False
+790016348,"Av. Jabaquara, 1634",Ref.: Rua Uranio,-23.61845,-46.639344,ponto,onibus,"av. jabaquara, 1634",False,False
+790016349,"Av. Jabaquara, 1898",Ref.: R Apotribu/ R Paracatu,-23.620887,-46.639838,ponto,onibus,"av. jabaquara, 1898",False,False
+790016351,Parada 2 - Metrô São Judas C/B,"Av. Jabaquara, 2372 Ref.: Av. Piassanguaba / Rua Paracatu",-23.625244,-46.640853,ponto,onibus,parada 2 - metro sao judas c/b,False,False
+790016354,"Av. Jabaquara, 2856",Ref.: Av Itacira/ Av Indianopolis,-23.627977,-46.643916,ponto,onibus,"av. jabaquara, 2856",False,False
+790016355,"Av. Jabaquara, 3094",Ref.: Av Irere/ Av Ceci,-23.629086,-46.645905,ponto,onibus,"av. jabaquara, 3094",False,False
+790016356,"Av. Jabaquara, 3007",Ref.: Av Irere/ Av Ceci,-23.628993,-46.645174,ponto,onibus,"av. jabaquara, 3007",False,False
+790016357,"Av. Jabaquara, 2673",Ref.: Av Itacira/ Av Piassanguaba,-23.627368,-46.642423,ponto,onibus,"av. jabaquara, 2673",False,False
+790016359,"R. Domingos De Morais, 3015",Ref.: R Luis Gois/ Av Doutor Altino Arantes,-23.603035,-46.636578,ponto,onibus,"r. domingos de morais, 3015",False,False
+790016360,Parada 1 - Metrô Santa Cruz B/C,"R. Domingos De Morais, 2693 Ref.: R Timburiba/ R Loefgreen",-23.599949,-46.636556,ponto,onibus,parada 1 - metro santa cruz b/c,False,False
+790016964,"Av. Ricardo Jafet, 2130",Ref.: R Helen Keller/ Vdto Doutor Eduardo Saigh,-23.599796,-46.624042,ponto,onibus,"av. ricardo jafet, 2130",False,False
+790016965,"Av. Ricardo Jafet, 3086",Ref.: R Ouvidor Peleja/ R Padre Machado,-23.602774,-46.625541,ponto,onibus,"av. ricardo jafet, 3086",False,False
+790016966,"Av. Prof. Abraão De Morais, 100",Ref.: Rua Dom Bernardo Nogueira,-23.604934,-46.626411,ponto,onibus,"av. prof. abraao de morais, 100",False,False
+790016967,"Av. Prof. Abraão De Morais, 254",Ref.: R Maria Jose Nogueira/ R Dom Bernardo Nogueira,-23.606302,-46.627096,ponto,onibus,"av. prof. abraao de morais, 254",False,False
+790016968,"Av. Prof. Abraão De Morais, 886",Ref.: R Maria Jose Nogueira/ R Ibirarema,-23.608935,-46.628251,ponto,onibus,"av. prof. abraao de morais, 886",False,False
+790016969,"Av. Prof. Abraão De Morais, 914",Ref.: R Ibirarema/ Av Bosque Da Saude,-23.611997,-46.62809,ponto,onibus,"av. prof. abraao de morais, 914",False,False
+790016970,"Av. Prof. Abraão De Morais, 1500",Ref.: R General Chagas Santos/ R Catulo Da Paixao Cearense,-23.615413,-46.627339,ponto,onibus,"av. prof. abraao de morais, 1500",False,False
+790016971,"Av. Prof. Abraão De Morais, 2066",Ref.: R Lomas Valentinas/ R General Chagas Santos,-23.616894,-46.627629,ponto,onibus,"av. prof. abraao de morais, 2066",False,False
+790016972,"Av. Prof. Abraão De Morais, 2200",Ref.: Rua Artur Thiré,-23.618905,-46.628084,ponto,onibus,"av. prof. abraao de morais, 2200",False,False
+790016973,"Av. Prof. Abraão De Morais, 2250",Ref.: R Francisco Tapajos/ R Elisa Silveira,-23.622976,-46.628458,ponto,onibus,"av. prof. abraao de morais, 2250",False,False
+790016974,"Av. Prof. Abraão De Morais, 1446",Ref.: R Palermo/ Av Fagundes Filho,-23.626121,-46.629342,ponto,onibus,"av. prof. abraao de morais, 1446",False,False
+800009393,"R. Paula Sousa, 374",Ref.: R Plinio Ramos/ R Da Cantareira,-23.538696,-46.629475,ponto,onibus,"r. paula sousa, 374",False,False
+800011035,"R. Da Cantareira, 201",Ref.: R Comendador Afonso Kherlakian/ R Comendador Assad Abdalla,-23.542299,-46.630346,ponto,onibus,"r. da cantareira, 201",False,False
+800012611,Secretaria Da Fazenda - Poupatempo,"Av. Rangel Pestana, 300 Ref.: R Frederico Alvarenga/ Av Do Exterior",-23.549519,-46.629695,ponto,onibus,secretaria da fazenda - poupatempo,False,False
+800012677,Dom Pedro II,"Av. Do Estado, 4144 Ref.: Vdto Vinte E Cinco De Marco/ R Tabatinguera",-23.550182,-46.628263,ponto,onibus,dom pedro ii,False,False
+800012730,"R. Líbero Badaró, 309",Ref.: Pça. Do Patriarca / R. Doutor Miguel Couto,-23.546566,-46.636392,ponto,onibus,"r. libero badaro, 309",False,False
+800012998,"Ac. Retorno Sobre Túnel Papa João Paulo II, 300",Ref.: Vdto Santa Ifigenia/ R Carlos De Sousa Nazare,-23.542566,-46.63465,ponto,onibus,"ac. retorno sobre tunel papa joao paulo ii, 300",False,False
+800013000,"Av. Prestes Maia, 488",Ref.: Av Senador Queiros/ R Carlos De Sousa Nazare,-23.540163,-46.633712,ponto,onibus,"av. prestes maia, 488",False,False
+800014590,Estacao Pedro Segundo,Ac. A Rua Da Figueira Ref.: Vdto Do Glicerio/ R Da Figueira,-23.551233,-46.625301,ponto,onibus,estacao pedro segundo,False,False
+800014767,"R. Paula Sousa, 72",Ref.: R Vinte E Cinco De Marco/ R Florencio De Abreu,-23.538025,-46.632216,ponto,onibus,"r. paula sousa, 72",False,False
+800015053,R. Dr. Bittencourt Rodrigues (pça. Fernando Costa),Ref.: R. Dr. Bittencourt Rodrigues/ R General Carneiro,-23.546618,-46.632182,ponto,onibus,r. dr. bittencourt rodrigues (pca. fernando costa),False,False
+800015291,Pq. D. Pedro II,Ref.: R General Carneiro/ R Hercules Florence,-23.54611,-46.631254,ponto,onibus,pq. d. pedro ii,False,False
+800015932,Ac. A Av Do Estado,Ref.: Viaduto Gov Roberto Abreu Sodre/ Vdto Trinta E Um De Marco,-23.55328,-46.626167,ponto,onibus,ac. a av do estado,False,False
+800016523,Terminal Parque Dom Pedro II - Plat 04,Term. Parque Dom Pedro II - Plat 04 Ref.: Av Do Estado/ Vdto Antonio Nakashima - (pmv - 34),-23.546987,-46.630103,ponto,onibus,terminal parque dom pedro ii - plat 04,False,False
+800016537,Terminal Parque Dom Pedro II - Plat 05,Term. Parque Dom Pedro II - Plat 05 Ref.: Av Do Estado/ Vdto Antonio Nakashima - (pmv - 48),-23.546921,-46.629921,ponto,onibus,terminal parque dom pedro ii - plat 05,False,False
+800016549,Terminal Parque Dom Pedro II - Plat 06,Term. Parque Dom Pedro II - Plat 06 Ref.: Av Do Estado/ Vdto Antonio Nakashima - (pmv - 61),-23.547245,-46.62962,ponto,onibus,terminal parque dom pedro ii - plat 06,False,False
+800016572,"Av. Da Liberdade, 47",Ref.: R Alvares Machado/ Pc Da Liberdade,-23.553336,-46.634766,ponto,onibus,"av. da liberdade, 47",False,False
+800016574,"Av. Da Liberdade, 170",Ref.: Pc Carlos Gomes/ Pc Da Liberdade,-23.555082,-46.635848,ponto,onibus,"av. da liberdade, 170",False,False
+800016586,Pça. Dr. João Mendes,Ref.: R Da Gloria/ Pc Doutor Joao Mendes,-23.552178,-46.634776,ponto,onibus,pca. dr. joao mendes,False,False
+800016589,Parada Roberto Simonsen,"Av. Rangel Pestana, 233 Ref.: R Doutor Bittencourt Rodrigues/ R Roberto Simonsen",-23.550033,-46.631332,ponto,onibus,parada roberto simonsen,False,False
+800016590,Lgo. Pateo Do Colégio,Ref.: R Anchieta/ R General Carneiro,-23.547871,-46.633165,ponto,onibus,lgo. pateo do colegio,False,False
+800016591,"R. Boa Vista, 364",Ref.: Entre Lad Porto Geral/ R Florencio De Abreu,-23.544847,-46.633835,ponto,onibus,"r. boa vista, 364",False,False
+800016949,"R. Dr. Bittencourt Rodrigues, 112",Ref.: R Venceslau Bras/ R Luis Teixeira,-23.548977,-46.631206,ponto,onibus,"r. dr. bittencourt rodrigues, 112",False,False
+830004168,"R. Ushikichi Kamiya, 1016",Ref.: R Vinte De Marco/ R Augusto Rodrigues,-23.439524,-46.575621,ponto,onibus,"r. ushikichi kamiya, 1016",False,False
+830004169,"R. Ushikichi Kamiya, 1610",Ref.: R Maria Rosa De Jesus/ R Augusto Rodrigues,-23.440144,-46.577637,ponto,onibus,"r. ushikichi kamiya, 1610",False,False
+830004170,"R. Ushikichi Kamiya, 1230",Ref.: R Maria Rosa De Jesus/ Al Da Videira,-23.440053,-46.577899,ponto,onibus,"r. ushikichi kamiya, 1230",False,False
+830004194,R. Br. Carlos De Souza  Anhumas,Ref.: R Alexandre Polinski/ R Rodrigo De Castro,-23.436201,-46.58298,ponto,onibus,r. br. carlos de souza anhumas,False,False
+830004195,"R. Br. Carlos De Souza  Anhumas, 280",Ref.: R Alexandre Polinski/ R Rodrigo De Castro,-23.436168,-46.583052,ponto,onibus,"r. br. carlos de souza anhumas, 280",False,False
+830004197,"R. Br. Carlos De Souza  Anhumas, 524",Ref.: R Sabia/ R Luis E Magalhaes,-23.434747,-46.580969,ponto,onibus,"r. br. carlos de souza anhumas, 524",False,False
+830004282,"R. Manuel Vieira Da Luz, 34",Ref.: Vel Felicidade Vieira/ Av Antonelo Da Messina,-23.450043,-46.588613,ponto,onibus,"r. manuel vieira da luz, 34",False,False
+830004284,"R. Manuel Vieira Da Luz, 327",Ref.: R Pier Tasca/ R Jose Fonseca Cavalcanti,-23.449766,-46.585598,ponto,onibus,"r. manuel vieira da luz, 327",False,False
+830004285,"R. Manuel Vieira Da Luz, 310",Ref.: R Pier Tasca/ R Jose Fonseca Cavalcanti,-23.449792,-46.585481,ponto,onibus,"r. manuel vieira da luz, 310",False,False
+830004286,"R. Filhos Da Terra, 674",Ref.: Pc Onze De Fevereiro/ Pc Da Ocupacao,-23.451977,-46.585399,ponto,onibus,"r. filhos da terra, 674",False,False
+830004288,"Av. Antonelo Da Messina, 575",Ref.: Tr Rio Butia/ R David Alan,-23.451619,-46.588936,ponto,onibus,"av. antonelo da messina, 575",False,False
+830004289,"Av. Antonelo Da Messina, 339",Ref.: R Benedito Henrique/ R Elias Pereira,-23.453768,-46.589381,ponto,onibus,"av. antonelo da messina, 339",False,False
+830004296,R. Francisco Bagatti,Ref.: R Onze/ R Inacio Becke,-23.438024,-46.581325,ponto,onibus,r. francisco bagatti,False,False
+830004297,R. Francisco Bagatti,Ref.: R Onze/ R Inacio Becke,-23.437937,-46.581389,ponto,onibus,r. francisco bagatti,False,False
+830004392,"R. Maria Amalia Lopes De Azevedo, 0",Ref.: Tr Geraldo Sanches Lopes/ R Ana Rosa De Oliveira Rossi,-23.456618,-46.601887,ponto,onibus,"r. maria amalia lopes de azevedo, 0",False,False
+830004393,"R. Maria Amalia Lopes De Azevedo, 2617",Ref.: Tr Geraldo Sanches Lopes/ R Ana Rosa De Oliveira Rossi,-23.456802,-46.601023,ponto,onibus,"r. maria amalia lopes de azevedo, 2617",False,False
+830004394,"R. Maria Amalia Lopes De Azevedo, 2981",Ref.: R Antonio Alvarez Airao/ Tr Da Emilia,-23.456867,-46.597959,ponto,onibus,"r. maria amalia lopes de azevedo, 2981",False,False
+830004395,"R. Maria Amalia Lopes De Azevedo, 2927",Ref.: R Nossa Senhora Da Concordia/ R Antonio Alvarez Airao,-23.456631,-46.598242,ponto,onibus,"r. maria amalia lopes de azevedo, 2927",False,False
+830004396,"R. Maria Amalia Lopes De Azevedo, 3080",Ref.: Tr Da Emilia/ R Humberto Bortolo,-23.457167,-46.596854,ponto,onibus,"r. maria amalia lopes de azevedo, 3080",False,False
+830004397,"R. Maria Amalia Lopes De Azevedo, 3124",Ref.: R Humberto Bortolo/ R Assunta Dores De Sica,-23.457354,-46.5965,ponto,onibus,"r. maria amalia lopes de azevedo, 3124",False,False
+830004398,"R. Maria Amalia Lopes De Azevedo, 3362",Ref.: R Araguaia Feitosa Martins/ R Tereza Bortolo,-23.456616,-46.594514,ponto,onibus,"r. maria amalia lopes de azevedo, 3362",False,False
+830004399,"R. Maria Amalia Lopes De Azevedo, 3371",Ref.: R Araguaia Feitosa Martins/ R Das Imbiras,-23.45646,-46.594394,ponto,onibus,"r. maria amalia lopes de azevedo, 3371",False,False
+830004400,"R. Maria Amalia Lopes De Azevedo, 3658",Ref.: R Jaupaci/ R Cardeal Enrico Dante,-23.456365,-46.591617,ponto,onibus,"r. maria amalia lopes de azevedo, 3658",False,False
+830004435,"Av. Cel. Sezefredo Fagundes, 2052",Ref.: Av Mario Pernambuco/ R Lugo,-23.461224,-46.602697,ponto,onibus,"av. cel. sezefredo fagundes, 2052",False,False
+830004436,"Av. Cel. Sezefredo Fagundes, 2169",Ref.: R Jose Bergamini/ R Coronel Valfredo De Campos,-23.460175,-46.602629,ponto,onibus,"av. cel. sezefredo fagundes, 2169",False,False
+830004437,"Av. Cel. Sezefredo Fagundes, 2424",Ref.: R Joao Carlos Fortim/ R Augusta De Jesus,-23.457865,-46.602441,ponto,onibus,"av. cel. sezefredo fagundes, 2424",False,False
+840000584,"Av. Nova Cantareira, 2153",Ref.: R Domingos Calheiros/ Av Tucuruvi,-23.478423,-46.610979,ponto,onibus,"av. nova cantareira, 2153",False,False
+840000585,"Av. Nova Cantareira, 1955",Ref.: R Domingos Calheiros/ R Eulalia Bastos,-23.480141,-46.611354,ponto,onibus,"av. nova cantareira, 1955",False,False
+840000586,"Av. Nova Cantareira, 1938",Ref.: R Juncal/ R Eulalia Bastos,-23.48035,-46.611163,ponto,onibus,"av. nova cantareira, 1938",False,False
+840000594,"Av. Nova Cantareira, 1445",Ref.: R Ismael Neri/ R Monte Belo,-23.482699,-46.613439,ponto,onibus,"av. nova cantareira, 1445",False,False
+840000595,"Av. Nova Cantareira, 1428",Ref.: R Monte Belo/ R Ismael Neri,-23.483184,-46.61351,ponto,onibus,"av. nova cantareira, 1428",False,False
+840000676,"Av. Tucuruvi, 161",Ref.: R Monte De Ouro/ R Pe. Julio Maria,-23.478186,-46.609397,ponto,onibus,"av. tucuruvi, 161",False,False
+840002051,Parada Juncal,"R. Domingos Calheiros, 220 Ref.: R Tome De Lara/ R Juncal",-23.479375,-46.609816,ponto,onibus,parada juncal,False,False
+840003938,"Av. Cel. Sezefredo Fagundes, 502",Ref.: R Teodoro Horst/ R Major Ari Gomes,-23.473587,-46.607778,ponto,onibus,"av. cel. sezefredo fagundes, 502",False,False
+840003939,"Av. Cel. Sezefredo Fagundes, 328",Ref.: R Curupite/ R Do Alto,-23.475131,-46.608617,ponto,onibus,"av. cel. sezefredo fagundes, 328",False,False
+840003940,"Av. Cel. Sezefredo Fagundes, 141",Ref.: R Macambira/ R Monte D Ouro,-23.476285,-46.609563,ponto,onibus,"av. cel. sezefredo fagundes, 141",False,False
+840004384,"Av. Cel. Sezefredo Fagundes, 834",Ref.: R Bonita/ R Jorge Fuchs,-23.471181,-46.606076,ponto,onibus,"av. cel. sezefredo fagundes, 834",False,False
+840004385,"Av. Cel. Sezefredo Fagundes, 931",Ref.: R Bonita/ R Joao Gualberto De Almeida Pires,-23.470419,-46.605593,ponto,onibus,"av. cel. sezefredo fagundes, 931",False,False
+840004386,"Av. Cel. Sezefredo Fagundes, 1124",Ref.: R Zeni Azevedo Cordeiro/ R Paulo Cesar,-23.4686,-46.603949,ponto,onibus,"av. cel. sezefredo fagundes, 1124",False,False
+840004387,"Av. Cel. Sezefredo Fagundes, 1203",Ref.: R Zeni Azevedo Cordeiro/ R Paulo Cesar,-23.468321,-46.604013,ponto,onibus,"av. cel. sezefredo fagundes, 1203",False,False
+840004388,"Av. Cel. Sezefredo Fagundes, 1408",Ref.: R Das Gamboas/ R Zeni Azevedo Cordeiro,-23.466819,-46.603553,ponto,onibus,"av. cel. sezefredo fagundes, 1408",False,False
+840004389,"Av. Cel. Sezefredo Fagundes, 1381",Ref.: R Das Gamboas/ R Zeni Azevedo Cordeiro,-23.466991,-46.603713,ponto,onibus,"av. cel. sezefredo fagundes, 1381",False,False
+840004390,"Av. Cel. Sezefredo Fagundes, 1742",Ref.: R Doutor Nelson Da Veiga/ R Dos Jacarandas Mimosos,-23.463933,-46.603481,ponto,onibus,"av. cel. sezefredo fagundes, 1742",False,False
+840004391,"Av. Cel. Sezefredo Fagundes, 1703",Ref.: R Sena/ R Dos Jacarandas Mimosos,-23.463458,-46.603474,ponto,onibus,"av. cel. sezefredo fagundes, 1703",False,False
+910000862,"Av. Guilherme Cotching, 1933",Ref.: R Araritaguaba/ R Da Gavea,-23.51315,-46.585745,ponto,onibus,"av. guilherme cotching, 1933",False,False
+910000863,"Av. Guilherme Cotching, 1920",Ref.: R Araritaguaba/ R Da Gavea,-23.513402,-46.585636,ponto,onibus,"av. guilherme cotching, 1920",False,False
+910000864,"Av. Guilherme Cotching, 1757",Ref.: Largo Da Vila Maria/ R Da Gavea/praça Santo Eduardo,-23.514433,-46.586795,ponto,onibus,"av. guilherme cotching, 1757",False,False
+910000865,"Av. Guilherme Cotching, 1600",Ref.: Largo Da Vila Maria/ R Margarino Torres/praça Santo Eduardo,-23.515836,-46.587562,ponto,onibus,"av. guilherme cotching, 1600",False,False
+910000866,"Av. Guilherme Cotching, 1551",Ref.: Largo Da Vila Maria/ R Margarino Torres,-23.515935,-46.588021,ponto,onibus,"av. guilherme cotching, 1551",False,False
+910000868,"Av. Guilherme Cotching, 1298",Ref.: R D. Luis Felipe De Orleans/ R Prfa. Maria J. Barone Fernandes,-23.518022,-46.589262,ponto,onibus,"av. guilherme cotching, 1298",False,False
+910000869,"Av. Guilherme Cotching, 915",Ref.: R Diamantina/ R Andarai,-23.520711,-46.591641,ponto,onibus,"av. guilherme cotching, 915",False,False
+910000870,"Av. Guilherme Cotching, 940",Ref.: R Diamantina/ R Andarai,-23.520743,-46.591433,ponto,onibus,"av. guilherme cotching, 940",False,False
+910000871,"Av. Guilherme Cotching, 647",Ref.: R Alcantara/ R Antonio Fonseca,-23.522699,-46.593296,ponto,onibus,"av. guilherme cotching, 647",False,False
+910000872,"Av. Guilherme Cotching, 640",Ref.: R Alcantara/ R Antonio Fonseca,-23.522858,-46.593093,ponto,onibus,"av. guilherme cotching, 640",False,False
+910000891,"Av. Alberto Byington, 1390",Ref.: Tv Francisco Jose De Mello/ R Gen. Mendes,-23.503309,-46.591604,ponto,onibus,"av. alberto byington, 1390",False,False
+910000892,"Av. Alberto Byington, 1632",Ref.: Pc Maria Montessori/ Pc Rio Brilhante,-23.501391,-46.590241,ponto,onibus,"av. alberto byington, 1632",False,False
+910000893,"Av. Alberto Byington, 1669",Ref.: Tv Fernao Martins Da Costa/ R Gen. Mendes,-23.50115,-46.590131,ponto,onibus,"av. alberto byington, 1669",False,False
+910000909,"R. Pe. Saboia De Medeiros, 204",Ref.: R Tupirana/ R Dr. Afrodisio Vidigal,-23.499934,-46.588268,ponto,onibus,"r. pe. saboia de medeiros, 204",False,False
+910000910,"R. Pe. Saboia De Medeiros, 363",Ref.: Tv Da Percussao/ R Tupirana,-23.498694,-46.587415,ponto,onibus,"r. pe. saboia de medeiros, 363",False,False
+910000911,"Pça. Marcelino Machado, 519",Ref.: R Sta Fe Do Sul,-23.497959,-46.586212,ponto,onibus,"pca. marcelino machado, 519",False,False
+910000912,"R. Pe. Saboia De Medeiros, 559",Ref.: Tv Da Percussao/ R Tupirana,-23.497451,-46.586063,ponto,onibus,"r. pe. saboia de medeiros, 559",False,False
+910000920,"R. Simão Borges, 509",Ref.: Rua Alberto De Freitas,-23.504515,-46.593314,ponto,onibus,"r. simao borges, 509",False,False
+910000921,"R. Simão Borges, 395",Ref.: R Rubiataba/ Tv Dr. Dirson Gomes Barbosa,-23.504536,-46.594244,ponto,onibus,"r. simao borges, 395",False,False
+910000922,"R. Simão Borges, 280",Ref.: R Alberto Freitas/ R Filipe Bandeira,-23.505234,-46.594491,ponto,onibus,"r. simao borges, 280",False,False
+910000923,"R. Simão Borges, 93",Ref.: R Sta Veridiana/ Av Do Imperador,-23.506815,-46.594768,ponto,onibus,"r. simao borges, 93",False,False
+910000924,"R. Simão Borges, 8",Ref.: R Antonio Da Silva/ R Sta Veridiana,-23.507639,-46.594731,ponto,onibus,"r. simao borges, 8",False,False
+910002007,"Av. Guilherme Cotching, 380",Ref.: R Antonio Fonseca/ Av Nadir Dias De Figueiredo,-23.524854,-46.594915,ponto,onibus,"av. guilherme cotching, 380",False,False
+910002014,"R. Araritáguaba, 675",Ref.: R Mere Amedea/ R Antonio Sobreda,-23.511646,-46.586685,ponto,onibus,"r. araritaguaba, 675",False,False
+910002015,"R. Araritáguaba, 614",Ref.: R Mere Amedea/ R Antonio Sobreda,-23.511332,-46.587248,ponto,onibus,"r. araritaguaba, 614",False,False
+910002016,"R. Araritáguaba, 415",Ref.: R Antonio Sobreda/ R Orlando Maia,-23.510262,-46.588746,ponto,onibus,"r. araritaguaba, 415",False,False
+910002017,"R. Araritáguaba, 382",Ref.: R Antonio Sobreda/ R Orlando Maia,-23.510128,-46.589062,ponto,onibus,"r. araritaguaba, 382",False,False
+910002018,"R. Araritáguaba, 132",Ref.: R Henrique Leitao/ R Orlando Maia,-23.509349,-46.591399,ponto,onibus,"r. araritaguaba, 132",False,False
+910002019,"R. Araritáguaba, 53",Ref.: R Henrique Leitao/ R Orlando Maia,-23.509303,-46.592093,ponto,onibus,"r. araritaguaba, 53",False,False
+910002020,"R. Do Imperador, 1949",Ref.: Pc Jose Manoel Da Fonseca/ R Antonio Da Silva,-23.509036,-46.593494,ponto,onibus,"r. do imperador, 1949",False,False
+910002021,"R. Do Imperador, 1870",Ref.: R Cassio De Almeida/ R Jose Wasth Rodrigues,-23.508804,-46.593967,ponto,onibus,"r. do imperador, 1870",False,False
+910017229,"Av. Alberto Byington, 1421",Ref.: R Gen. Mendes/ Pc Rio Brilhante,-23.502971,-46.591418,ponto,onibus,"av. alberto byington, 1421",False,False
+920016187,"R. Domingos De Morais, 2083",Ref.: R Berta/ R Monsenhor Manuel Vicente,-23.594401,-46.63647,ponto,onibus,"r. domingos de morais, 2083",False,False
+920016339,"R. Domingos De Morais, 2444",Ref.: Rua Pedro De Toledo,-23.598317,-46.636797,ponto,onibus,"r. domingos de morais, 2444",False,False
+920016362,"R. Domingos De Morais, 1725",Ref.: R Afonso Celso/ R Sena Madureira,-23.591475,-46.635588,ponto,onibus,"r. domingos de morais, 1725",False,False
+920016363,"Av. Prof. Noé Azevedo, 208",Ref.: Av Lins De Vasconcelos/ R Dona Julia,-23.58868,-46.634409,ponto,onibus,"av. prof. noe azevedo, 208",False,False
+920016365,Av. Prof. Noé Azevedo,Av. Prof. Noé Azevedo Ref.: Rua Dona Julia,-23.587921,-46.634727,ponto,onibus,av. prof. noe azevedo,False,False
+920016366,"Av. Prof. Noé Azevedo, 208",Ref.: Av Lins De Vasconcelos,-23.588925,-46.634769,ponto,onibus,"av. prof. noe azevedo, 208",False,False
+920016367,"R. Domingos De Morais, 2014",Ref.: Rua Sena Madureira,-23.593781,-46.63669,ponto,onibus,"r. domingos de morais, 2014",False,False
+920016403,"R. Vergueiro, 2575",Ref.: R Joaquim Tavora/ R Carlos Petit,-23.584108,-46.636463,ponto,onibus,"r. vergueiro, 2575",False,False
+920016404,"R. Vergueiro, 2223",Ref.: R Doutor Jose De Queiroz Aranha/ R Machado De Assis,-23.581485,-46.638141,ponto,onibus,"r. vergueiro, 2223",False,False
+920016405,"R. Vergueiro, 1845",Ref.: Jd Jardim Ivone/ R Doutor Nicolau De Sousa Queiros,-23.578514,-46.640091,ponto,onibus,"r. vergueiro, 1845",False,False
+920016407,"R. Vergueiro, 1485",Ref.: R Tupinambas/ R Correia Dias,-23.575161,-46.640512,ponto,onibus,"r. vergueiro, 1485",False,False
+920016408,"R. Vergueiro, 1476",Ref.: Acesso A R Tupinambas/ Acesso Vd Santa Generosa,-23.575029,-46.64075,ponto,onibus,"r. vergueiro, 1476",False,False
+920016702,"R. Vergueiro, 2157",Ref.: Largo Dona Ana Rosa/ R Professor Aristides De Macedo,-23.580609,-46.63905,ponto,onibus,"r. vergueiro, 2157",False,False
+920016959,"Av. Ricardo Jafet, 944",Ref.: R Crisolita/ R Sanches Brandao,-23.584031,-46.617866,ponto,onibus,"av. ricardo jafet, 944",False,False
+920016960,"Av. Ricardo Jafet, 1300",Ref.: R Pedro Campana/ R Marcelino Champagnata,-23.587914,-46.61995,ponto,onibus,"av. ricardo jafet, 1300",False,False
+920016961,"Av. Ricardo Jafet, 1550",Ref.: R Pedro Pomponazzi/ R Rodrigo Vieira,-23.59036,-46.620532,ponto,onibus,"av. ricardo jafet, 1550",False,False
+920016962,"Av. Ricardo Jafet, 1700",Ref.: R Jan Breughel/ R Vergueiro,-23.59369,-46.621232,ponto,onibus,"av. ricardo jafet, 1700",False,False
+920016963,"Av. Ricardo Jafet, 1898",Ref.: R Paulo Figueiredo/ R Professor Oswaldo Lacerda Gomes Cardim,-23.595376,-46.621709,ponto,onibus,"av. ricardo jafet, 1898",False,False
+940003683,"Av. Edu Chaves, 1260",Ref.: Av Carlos Dos Santos/ R Cap. Rubens,-23.478181,-46.56848,ponto,onibus,"av. edu chaves, 1260",False,False
+940003686,"Av. Edu Chaves, 1082",Ref.: R Dorandia/ Av Carlos Dos Santos,-23.476797,-46.569252,ponto,onibus,"av. edu chaves, 1082",False,False
+940003756,"Av. Roland Garros, 1906",Ref.: Av Edu Chaves/ R Jose Batista De Paula,-23.475467,-46.570202,ponto,onibus,"av. roland garros, 1906",False,False
+940003757,"Av. Roland Garros, 1815",Ref.: Tv Tempestade/ Av Edu Chaves,-23.475776,-46.571298,ponto,onibus,"av. roland garros, 1815",False,False
+940003788,"R. Francisco Medeiros Jordão, 55",Ref.: R Maria Augusta/ Av Conceicao,-23.495867,-46.586326,ponto,onibus,"r. francisco medeiros jordao, 55",False,False
+940003789,"R. Francisco Medeiros Jordão, 140",Ref.: R Maria Augusta/ R S Leotelio,-23.495336,-46.586893,ponto,onibus,"r. francisco medeiros jordao, 140",False,False
+940003790,"R. Eurico Sodre, 353",Ref.: R Crispim Duarte/ R Francisco Medeiros Jordao/ubs,-23.494527,-46.587189,ponto,onibus,"r. eurico sodre, 353",False,False
+940003791,"R. Eurico Sodre, 120",Ref.: R Francisco Medeiros Jordao/ R Crispim Duarte,-23.494139,-46.586689,ponto,onibus,"r. eurico sodre, 120",False,False
+940003796,"Av. Nsa. Sra. Do Loreto, 619",Ref.: R Ataliba Vieira/ R Carlos Morgado,-23.489563,-46.58486,ponto,onibus,"av. nsa. sra. do loreto, 619",False,False
+940003797,"Av. Nsa. Sra. Do Loreto, 658",Ref.: R Rev. Israel Vieira Ferreira/ R Rev. Israel Vieira Ferreira,-23.489421,-46.584614,ponto,onibus,"av. nsa. sra. do loreto, 658",False,False
+940003800,"R. Rev. Israel Vieira Ferreira, 638",Ref.: R Carmem Porto/ Av Nsra Do Loreto,-23.490825,-46.585726,ponto,onibus,"r. rev. israel vieira ferreira, 638",False,False
+940003801,"R. Rev. Israel Vieira Ferreira, 615",Ref.: Av Nsra Do Loreto/ R Francisco Medeiros Jordao,-23.490995,-46.585666,ponto,onibus,"r. rev. israel vieira ferreira, 615",False,False
+940003803,"R. Eurico Sodre, 388",Ref.: R Crispim Duarte/ R Rev. Israel Vieira Ferreira,-23.492405,-46.584824,ponto,onibus,"r. eurico sodre, 388",False,False
+940004126,"Av. Roland Garros, 1551",Ref.: Av Mendes Da Rocha/ R Sta Rita Do Passa Quatro,-23.476885,-46.573615,ponto,onibus,"av. roland garros, 1551",False,False
+940004127,"Av. Roland Garros, 1486",Ref.: Tr Paulo Serrao/ Av Mendes Da Rocha,-23.477129,-46.573971,ponto,onibus,"av. roland garros, 1486",False,False
+940004128,"Av. Roland Garros, 1309",Ref.: R Joaquim Maria De Almeida E Silva/ R Ten. Sotomano,-23.47782,-46.575579,ponto,onibus,"av. roland garros, 1309",False,False
+940004129,"Av. Roland Garros, 1178",Ref.: Av Edgard Ruzzant/ Vp Musica Da Bruma,-23.478418,-46.576715,ponto,onibus,"av. roland garros, 1178",False,False
+940004131,"Av. Roland Garros, 970",Ref.: Av Ramiz Galvao/ R Antonio De Alencar,-23.479261,-46.578493,ponto,onibus,"av. roland garros, 970",False,False
+940004132,"Av. Roland Garros, 913",Ref.: Av Ramiz Galvao/ R Antonio De Alencar,-23.479521,-46.579256,ponto,onibus,"av. roland garros, 913",False,False
+940004133,"Av. Roland Garros, 788",Ref.: Av Ramiz Galvao/ R Francisco Peixoto Bezerra,-23.480017,-46.5801,ponto,onibus,"av. roland garros, 788",False,False
+940004134,"Av. Roland Garros, 739",Ref.: R Francisco Peixoto Bezerra/ R Barreiro Vermelho,-23.480199,-46.580681,ponto,onibus,"av. roland garros, 739",False,False
+940004135,"Av. Roland Garros, 339",Ref.: R Julia Correia De Lima/ R Tosca,-23.48259,-46.583456,ponto,onibus,"av. roland garros, 339",False,False
+940004136,"Av. Roland Garros, 356",Ref.: R Julia Correia De Lima/ R Tosca,-23.482572,-46.583287,ponto,onibus,"av. roland garros, 356",False,False
+940004138,"Av. Roland Garros, 198",Ref.: R Ariconte/ Av Gustavo Adolfo,-23.483638,-46.584399,ponto,onibus,"av. roland garros, 198",False,False
+940004154,"Av. Gustavo Adolfo, 1982",Ref.: Av Nsra Do Loreto/ Tv Ana Ferrara,-23.486365,-46.581801,ponto,onibus,"av. gustavo adolfo, 1982",False,False
+940004155,"Av. Gustavo Adolfo, 1947",Ref.: Av Nsra Do Loreto/ Tv Ana Ferrara,-23.486093,-46.581943,ponto,onibus,"av. gustavo adolfo, 1947",False,False
+940004156,"Av. Nsa. Sra. Do Loreto, 914",Ref.: R Amilcar Tomazoni/ R Geolandia,-23.487718,-46.582787,ponto,onibus,"av. nsa. sra. do loreto, 914",False,False
+940004157,"Av. Nsa. Sra. Do Loreto, 941",Ref.: R Amilcar Tomazoni/ R Geolandia,-23.487617,-46.582841,ponto,onibus,"av. nsa. sra. do loreto, 941",False,False

@@ -1,0 +1,19 @@
+# Opcional: PostgreSQL 16 + PostGIS para quem preferir um banco externo ao PGlite embutido.
+# Uso: docker compose up -d   e, no .env:
+#   DATABASE_URL=postgres://baldeia:baldeia@localhost:5432/baldeia
+#   ENABLE_POSTGIS=true
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    environment:
+      POSTGRES_USER: baldeia
+      POSTGRES_PASSWORD: baldeia   # apenas desenvolvimento local
+      POSTGRES_DB: baldeia
+    ports: ["5432:5432"]
+    volumes: ["pgdata:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U baldeia"]
+      interval: 5s
+      retries: 10
+volumes:
+  pgdata:

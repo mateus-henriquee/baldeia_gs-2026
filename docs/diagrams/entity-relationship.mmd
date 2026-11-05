@@ -1,0 +1,24 @@
+%% ERD resumido (fonte editável). O diagrama completo é gerado do SQL por build_diagrams.py.
+erDiagram
+  data_sources ||--o{ dataset_versions : versiona
+  dataset_versions ||--o{ quality_checks : valida
+  dataset_versions ||--o{ stops : origina
+  agencies ||--o{ routes : opera
+  routes ||--o{ trips : tem
+  calendar_services ||--o{ trips : define
+  trips ||--o{ stop_times : passa
+  stops ||--o{ stop_times : recebe
+  stop_times ||--o| route_segments : inicia
+  stops ||--o{ stop_transfers : conecta
+  users ||--|| user_preferences : tem
+  users ||--o{ user_consents : registra
+  users ||--o{ favorite_places : salva
+  stops ||--o{ favorite_places : referencia
+  users ||--o{ journeys : realiza
+  journeys ||--o{ journey_legs : compoe
+  journeys ||--o{ journey_checkpoints : confirma
+  users |o--o{ recommendations : recebe
+  users |o--o{ community_reports : publica
+  stops ||--o{ community_reports : localiza
+  community_reports ||--o{ report_confirmations : recebe
+  community_reports ||--o{ report_flags : recebe

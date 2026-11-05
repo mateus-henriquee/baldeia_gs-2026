@@ -1,0 +1,28 @@
+{
+  "name": "baldeia",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Baldeia — plataforma de mobilidade urbana orientada por dados (projeto acadêmico).",
+  "workspaces": [
+    "apps/api",
+    "apps/web"
+  ],
+  "scripts": {
+    "dev": "concurrently -n api,web -c blue,magenta \"npm run dev -w apps/api\" \"npm run dev -w apps/web\"",
+    "build": "npm run build -w apps/web",
+    "start": "npm run start -w apps/api",
+    "test": "npm run test -w apps/api && npm run test -w apps/web",
+    "typecheck": "npm run typecheck -w apps/api && npm run typecheck -w apps/web",
+    "db:reset": "npm run db:reset -w apps/api",
+    "pipeline": "cd pipeline && python -m baldeia_pipeline.run",
+    "pipeline:test": "cd pipeline && python -m pytest -q",
+    "diagrams": "cd docs/diagrams && python build_diagrams.py && python gen_dictionary.py",
+    "brand": "python brand/build_brand.py"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.6"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

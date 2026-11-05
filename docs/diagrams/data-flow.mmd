@@ -1,0 +1,28 @@
+%% DFD (fonte editável). ● = fluxo com dado pessoal.
+flowchart LR
+  subgraph Dispositivo[Dispositivo do usuário]
+    US[Usuário] --> UI[P0 Interface web]
+    GEO[Geolocalização] -- lat/lon local --> UI
+  end
+  subgraph Servidor[Servidor Baldeia]
+    P1[P1 Autenticação e consentimento] --> D1[(D1 Contas e consentimentos ●)]
+    P2[P2 Planejamento] --> D2[(D2 Viagens e recomendações ●)]
+    D4[(D4 Rede de transporte)] --> P2
+    P3[P3 Comunidade e confiança] --> D3[(D3 Relatos ●)]
+    P4[P4 Privacidade e titular] --> P3
+    D6[(D6 Auditoria ●)]
+    D5[(D5 Linhagem e qualidade)]
+    P5[P5 Análise agregada k=3]
+  end
+  subgraph Dados[Ambiente de dados]
+    FO[Fontes oficiais GTFS] --> P6[P6 Pipeline Python] --> D7[(D7 Bronze/Silver/Gold)]
+  end
+  subgraph Terceiros
+    OSM[OpenStreetMap tiles]
+  end
+  US -- ● e-mail, senha --> P1
+  UI -- ● origem/destino, horário --> P2
+  UI -- ● relato + parada --> P3
+  D7 -- carga Gold --> D4
+  D7 -- versão --> D5
+  OSM -- imagens do mapa --> UI
