@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Link, useNavigate, useSearchParams } from "react-router-dom";
 import { Logo } from "../components/ui";
 import { api, errorText } from "../lib/api";
@@ -107,8 +107,13 @@ export function VerifyEmail() {
   const [state, setState] = useState<"wait" | "ok" | "err">("wait");
   const [msg, setMsg] = useState("");
   const { refresh } = useAuth();
+  const sent = useRef<string | null>(null);
   useEffect(() => {
-    api("/auth/verify-email", { body: { token: params.get("token") ?? "" } })
+    const token = params.get("token") ?? "";
+    // Evita a 2ª chamada do StrictMode: o token é de uso único.
+    if (sent.current === token) return;
+    sent.current = token;
+    api("/auth/verify-email", { body: { token } })
       .then(() => { setState("ok"); void refresh(); }).catch((e) => { setState("err"); setMsg(errorText(e)); });
   }, [params, refresh]);
   return (
